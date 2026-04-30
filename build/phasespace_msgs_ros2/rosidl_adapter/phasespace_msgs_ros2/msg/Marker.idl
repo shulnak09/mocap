@@ -1,0 +1,26 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from phasespace_msgs_ros2/msg/Marker.msg
+// generated code does not contain a copyright notice
+
+
+module phasespace_msgs_ros2 {
+  module msg {
+    @verbatim (language="comment", text=
+      "Messages")
+    struct Marker {
+      uint32 id;
+
+      uint32 flags;
+
+      uint64 time;
+
+      float x;
+
+      float y;
+
+      float z;
+
+      float cond;
+    };
+  };
+};

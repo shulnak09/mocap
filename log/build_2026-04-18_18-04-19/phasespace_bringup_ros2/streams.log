@@ -1,0 +1,71 @@
+[0.006s] Invoking command in '/home/anshul/Research/PostDoc/mocap/build/phasespace_bringup_ros2': AMENT_PREFIX_PATH=/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/opt/ros/humble:/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2 CONDA_PROMPT_MODIFIER=(base) LD_LIBRARY_PATH=/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/anshul/Research/PostDoc/mocap/phasespace-mocap-ros2/phasespace_bringup_ros2 -DPython3_EXECUTABLE=/usr/bin/python3 -DCMAKE_INSTALL_PREFIX=/home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2
+[0.043s] -- The C compiler identification is GNU 11.4.0
+[0.082s] -- The CXX compiler identification is GNU 11.4.0
+[0.088s] -- Detecting C compiler ABI info
+[0.142s] -- Detecting C compiler ABI info - done
+[0.147s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.147s] -- Detecting C compile features
+[0.147s] -- Detecting C compile features - done
+[0.149s] -- Detecting CXX compiler ABI info
+[0.208s] -- Detecting CXX compiler ABI info - done
+[0.214s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.214s] -- Detecting CXX compile features
+[0.214s] -- Detecting CXX compile features - done
+[0.215s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.315s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.375s] -- Found phasespace_msgs_ros2: 0.0.0 (/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/cmake)
+[0.401s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.404s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.410s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.418s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.427s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.449s] -- Found rclcpp: 16.0.12 (/opt/ros/humble/share/rclcpp/cmake)
+[0.468s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.470s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.527s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.545s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.573s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.577s] -- Looking for pthread.h
+[0.632s] -- Looking for pthread.h - found
+[0.632s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.683s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.684s] -- Found Threads: TRUE  
+[0.743s] -- Configuring done
+[0.748s] -- Generating done
+[0.750s] -- Build files have been written to: /home/anshul/Research/PostDoc/mocap/build/phasespace_bringup_ros2
+[0.757s] Invoked command in '/home/anshul/Research/PostDoc/mocap/build/phasespace_bringup_ros2' returned '0': AMENT_PREFIX_PATH=/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/opt/ros/humble:/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2 CONDA_PROMPT_MODIFIER=(base) LD_LIBRARY_PATH=/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/anshul/Research/PostDoc/mocap/phasespace-mocap-ros2/phasespace_bringup_ros2 -DPython3_EXECUTABLE=/usr/bin/python3 -DCMAKE_INSTALL_PREFIX=/home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2
+[0.757s] Invoking command in '/home/anshul/Research/PostDoc/mocap/build/phasespace_bringup_ros2': AMENT_PREFIX_PATH=/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/opt/ros/humble:/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2 CONDA_PROMPT_MODIFIER=(base) LD_LIBRARY_PATH=/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/anshul/Research/PostDoc/mocap/build/phasespace_bringup_ros2 -- -j20 -l20
+[0.786s] Consolidate compiler generated dependencies of target phasespace_bringup_node
+[0.798s] [100%] Built target phasespace_bringup_node
+[0.806s] Invoked command in '/home/anshul/Research/PostDoc/mocap/build/phasespace_bringup_ros2' returned '0': AMENT_PREFIX_PATH=/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/opt/ros/humble:/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2 CONDA_PROMPT_MODIFIER=(base) LD_LIBRARY_PATH=/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/anshul/Research/PostDoc/mocap/build/phasespace_bringup_ros2 -- -j20 -l20
+[0.807s] Invoking command in '/home/anshul/Research/PostDoc/mocap/build/phasespace_bringup_ros2': AMENT_PREFIX_PATH=/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/opt/ros/humble:/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2 CONDA_PROMPT_MODIFIER=(base) LD_LIBRARY_PATH=/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/anshul/Research/PostDoc/mocap/build/phasespace_bringup_ros2
+[0.813s] -- Install configuration: ""
+[0.813s] -- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/lib/phasespace_bringup_ros2/phasespace_bringup_node
+[0.813s] -- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/include
+[0.813s] -- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/include/phasespace_bringup_ros2
+[0.813s] -- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/include/phasespace_bringup_ros2/owl.hpp
+[0.813s] -- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/include/phasespace_bringup_ros2/owl_math.h
+[0.813s] -- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/include/phasespace_bringup_ros2/owl_rx.hpp
+[0.813s] -- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/lib/libowlsock.so
+[0.813s] -- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/lib/phasespace_bringup_ros2/read_rigids.py
+[0.814s] -- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/lib/phasespace_bringup_ros2/plot_xy_data.py
+[0.814s] -- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/lib/phasespace_bringup_ros2/live_plot_xyz.py
+[0.814s] -- Installing: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/lib/phasespace_bringup_ros2/live_spatial_plot.py
+[0.814s] -- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/phasespace_bringup_ros2/launch
+[0.814s] -- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/phasespace_bringup_ros2/launch/phasespace_mocap.launch.py
+[0.814s] -- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/ament_index/resource_index/package_run_dependencies/phasespace_bringup_ros2
+[0.814s] -- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/ament_index/resource_index/parent_prefix_path/phasespace_bringup_ros2
+[0.814s] -- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/phasespace_bringup_ros2/environment/ament_prefix_path.sh
+[0.814s] -- Installing: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/phasespace_bringup_ros2/environment/ament_prefix_path.dsv
+[0.814s] -- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/phasespace_bringup_ros2/environment/path.sh
+[0.814s] -- Installing: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/phasespace_bringup_ros2/environment/path.dsv
+[0.814s] -- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/phasespace_bringup_ros2/local_setup.bash
+[0.814s] -- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/phasespace_bringup_ros2/local_setup.sh
+[0.814s] -- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/phasespace_bringup_ros2/local_setup.zsh
+[0.814s] -- Installing: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/phasespace_bringup_ros2/local_setup.dsv
+[0.814s] -- Installing: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/phasespace_bringup_ros2/package.dsv
+[0.814s] -- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/ament_index/resource_index/packages/phasespace_bringup_ros2
+[0.814s] -- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/phasespace_bringup_ros2/cmake/phasespace_bringup_ros2Config.cmake
+[0.814s] -- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/phasespace_bringup_ros2/cmake/phasespace_bringup_ros2Config-version.cmake
+[0.814s] -- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/phasespace_bringup_ros2/package.xml
+[0.816s] Invoked command in '/home/anshul/Research/PostDoc/mocap/build/phasespace_bringup_ros2' returned '0': AMENT_PREFIX_PATH=/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/opt/ros/humble:/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2 CONDA_PROMPT_MODIFIER=(base) LD_LIBRARY_PATH=/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/anshul/Research/PostDoc/mocap/build/phasespace_bringup_ros2

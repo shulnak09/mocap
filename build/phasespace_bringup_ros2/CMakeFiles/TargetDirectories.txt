@@ -1,0 +1,10 @@
+/home/anshul/Research/PostDoc/mocap/build/phasespace_bringup_ros2/CMakeFiles/uninstall.dir
+/home/anshul/Research/PostDoc/mocap/build/phasespace_bringup_ros2/CMakeFiles/phasespace_bringup_ros2_uninstall.dir
+/home/anshul/Research/PostDoc/mocap/build/phasespace_bringup_ros2/CMakeFiles/phasespace_bringup_node.dir
+/home/anshul/Research/PostDoc/mocap/build/phasespace_bringup_ros2/CMakeFiles/test.dir
+/home/anshul/Research/PostDoc/mocap/build/phasespace_bringup_ros2/CMakeFiles/edit_cache.dir
+/home/anshul/Research/PostDoc/mocap/build/phasespace_bringup_ros2/CMakeFiles/rebuild_cache.dir
+/home/anshul/Research/PostDoc/mocap/build/phasespace_bringup_ros2/CMakeFiles/list_install_components.dir
+/home/anshul/Research/PostDoc/mocap/build/phasespace_bringup_ros2/CMakeFiles/install.dir
+/home/anshul/Research/PostDoc/mocap/build/phasespace_bringup_ros2/CMakeFiles/install/local.dir
+/home/anshul/Research/PostDoc/mocap/build/phasespace_bringup_ros2/CMakeFiles/install/strip.dir

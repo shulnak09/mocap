@@ -1,0 +1,2169 @@
+[0.000000] (-) TimerEvent: {}
+[0.000244] (phasespace_msgs_ros2) JobQueued: {'identifier': 'phasespace_msgs_ros2', 'dependencies': OrderedDict()}
+[0.000298] (phasespace_bringup_ros2) JobQueued: {'identifier': 'phasespace_bringup_ros2', 'dependencies': OrderedDict([('phasespace_msgs_ros2', '/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2')])}
+[0.000654] (phasespace_msgs_ros2) JobStarted: {'identifier': 'phasespace_msgs_ros2'}
+[0.100186] (-) TimerEvent: {}
+[0.200448] (-) TimerEvent: {}
+[0.300748] (-) TimerEvent: {}
+[0.401089] (-) TimerEvent: {}
+[0.501425] (-) TimerEvent: {}
+[0.601714] (-) TimerEvent: {}
+[0.702011] (-) TimerEvent: {}
+[0.802313] (-) TimerEvent: {}
+[0.902595] (-) TimerEvent: {}
+[1.002792] (-) TimerEvent: {}
+[1.103119] (-) TimerEvent: {}
+[1.203350] (-) TimerEvent: {}
+[1.303656] (-) TimerEvent: {}
+[1.404143] (-) TimerEvent: {}
+[1.504345] (-) TimerEvent: {}
+[1.604638] (-) TimerEvent: {}
+[1.704929] (-) TimerEvent: {}
+[1.805193] (-) TimerEvent: {}
+[1.905454] (-) TimerEvent: {}
+[2.005656] (-) TimerEvent: {}
+[2.105939] (-) TimerEvent: {}
+[2.206092] (-) TimerEvent: {}
+[2.306367] (-) TimerEvent: {}
+[2.406655] (-) TimerEvent: {}
+[2.506944] (-) TimerEvent: {}
+[2.607232] (-) TimerEvent: {}
+[2.707461] (-) TimerEvent: {}
+[2.807777] (-) TimerEvent: {}
+[2.907969] (-) TimerEvent: {}
+[3.008118] (-) TimerEvent: {}
+[3.108331] (-) TimerEvent: {}
+[3.208559] (-) TimerEvent: {}
+[3.308767] (-) TimerEvent: {}
+[3.408927] (-) TimerEvent: {}
+[3.509091] (-) TimerEvent: {}
+[3.609308] (-) TimerEvent: {}
+[3.709537] (-) TimerEvent: {}
+[3.809733] (-) TimerEvent: {}
+[3.909876] (-) TimerEvent: {}
+[4.010045] (-) TimerEvent: {}
+[4.110226] (-) TimerEvent: {}
+[4.210425] (-) TimerEvent: {}
+[4.310619] (-) TimerEvent: {}
+[4.410824] (-) TimerEvent: {}
+[4.510961] (-) TimerEvent: {}
+[4.611097] (-) TimerEvent: {}
+[4.711304] (-) TimerEvent: {}
+[4.811599] (-) TimerEvent: {}
+[4.911769] (-) TimerEvent: {}
+[5.012046] (-) TimerEvent: {}
+[5.112403] (-) TimerEvent: {}
+[5.212586] (-) TimerEvent: {}
+[5.312858] (-) TimerEvent: {}
+[5.413030] (-) TimerEvent: {}
+[5.513284] (-) TimerEvent: {}
+[5.613564] (-) TimerEvent: {}
+[5.713837] (-) TimerEvent: {}
+[5.813999] (-) TimerEvent: {}
+[5.914265] (-) TimerEvent: {}
+[6.014568] (-) TimerEvent: {}
+[6.114974] (-) TimerEvent: {}
+[6.215146] (-) TimerEvent: {}
+[6.315463] (-) TimerEvent: {}
+[6.415731] (-) TimerEvent: {}
+[6.515932] (-) TimerEvent: {}
+[6.616207] (-) TimerEvent: {}
+[6.716403] (-) TimerEvent: {}
+[6.816699] (-) TimerEvent: {}
+[6.917015] (-) TimerEvent: {}
+[7.017187] (-) TimerEvent: {}
+[7.117467] (-) TimerEvent: {}
+[7.217666] (-) TimerEvent: {}
+[7.317892] (-) TimerEvent: {}
+[7.418142] (-) TimerEvent: {}
+[7.518450] (-) TimerEvent: {}
+[7.618661] (-) TimerEvent: {}
+[7.718957] (-) TimerEvent: {}
+[7.819146] (-) TimerEvent: {}
+[7.919476] (-) TimerEvent: {}
+[8.019715] (-) TimerEvent: {}
+[8.119935] (-) TimerEvent: {}
+[8.220084] (-) TimerEvent: {}
+[8.320368] (-) TimerEvent: {}
+[8.420655] (-) TimerEvent: {}
+[8.520957] (-) TimerEvent: {}
+[8.621234] (-) TimerEvent: {}
+[8.721421] (-) TimerEvent: {}
+[8.821629] (-) TimerEvent: {}
+[8.921926] (-) TimerEvent: {}
+[9.022201] (-) TimerEvent: {}
+[9.122510] (-) TimerEvent: {}
+[9.222719] (-) TimerEvent: {}
+[9.322915] (-) TimerEvent: {}
+[9.423188] (-) TimerEvent: {}
+[9.523504] (-) TimerEvent: {}
+[9.623812] (-) TimerEvent: {}
+[9.724090] (-) TimerEvent: {}
+[9.824254] (-) TimerEvent: {}
+[9.924552] (-) TimerEvent: {}
+[10.024722] (-) TimerEvent: {}
+[10.124984] (-) TimerEvent: {}
+[10.225132] (-) TimerEvent: {}
+[10.325305] (-) TimerEvent: {}
+[10.425481] (-) TimerEvent: {}
+[10.525685] (-) TimerEvent: {}
+[10.625981] (-) TimerEvent: {}
+[10.726137] (-) TimerEvent: {}
+[10.826288] (-) TimerEvent: {}
+[10.926484] (-) TimerEvent: {}
+[11.026778] (-) TimerEvent: {}
+[11.127038] (-) TimerEvent: {}
+[11.227342] (-) TimerEvent: {}
+[11.327630] (-) TimerEvent: {}
+[11.427819] (-) TimerEvent: {}
+[11.528089] (-) TimerEvent: {}
+[11.628281] (-) TimerEvent: {}
+[11.728563] (-) TimerEvent: {}
+[11.828734] (-) TimerEvent: {}
+[11.929013] (-) TimerEvent: {}
+[12.029292] (-) TimerEvent: {}
+[12.129481] (-) TimerEvent: {}
+[12.229810] (-) TimerEvent: {}
+[12.330094] (-) TimerEvent: {}
+[12.430361] (-) TimerEvent: {}
+[12.530626] (-) TimerEvent: {}
+[12.630919] (-) TimerEvent: {}
+[12.731220] (-) TimerEvent: {}
+[12.831416] (-) TimerEvent: {}
+[12.931693] (-) TimerEvent: {}
+[13.031983] (-) TimerEvent: {}
+[13.132162] (-) TimerEvent: {}
+[13.232446] (-) TimerEvent: {}
+[13.332719] (-) TimerEvent: {}
+[13.432975] (-) TimerEvent: {}
+[13.533118] (-) TimerEvent: {}
+[13.633371] (-) TimerEvent: {}
+[13.733651] (-) TimerEvent: {}
+[13.833987] (-) TimerEvent: {}
+[13.934265] (-) TimerEvent: {}
+[14.034467] (-) TimerEvent: {}
+[14.134725] (-) TimerEvent: {}
+[14.234897] (-) TimerEvent: {}
+[14.335175] (-) TimerEvent: {}
+[14.435382] (-) TimerEvent: {}
+[14.535573] (-) TimerEvent: {}
+[14.635778] (-) TimerEvent: {}
+[14.735985] (-) TimerEvent: {}
+[14.836150] (-) TimerEvent: {}
+[14.936307] (-) TimerEvent: {}
+[15.036582] (-) TimerEvent: {}
+[15.136860] (-) TimerEvent: {}
+[15.237118] (-) TimerEvent: {}
+[15.337368] (-) TimerEvent: {}
+[15.437640] (-) TimerEvent: {}
+[15.537938] (-) TimerEvent: {}
+[15.638219] (-) TimerEvent: {}
+[15.738385] (-) TimerEvent: {}
+[15.838564] (-) TimerEvent: {}
+[15.938837] (-) TimerEvent: {}
+[16.039014] (-) TimerEvent: {}
+[16.139303] (-) TimerEvent: {}
+[16.239497] (-) TimerEvent: {}
+[16.339747] (-) TimerEvent: {}
+[16.440026] (-) TimerEvent: {}
+[16.540302] (-) TimerEvent: {}
+[16.640512] (-) TimerEvent: {}
+[16.740710] (-) TimerEvent: {}
+[16.840979] (-) TimerEvent: {}
+[16.941245] (-) TimerEvent: {}
+[17.041522] (-) TimerEvent: {}
+[17.141725] (-) TimerEvent: {}
+[17.242010] (-) TimerEvent: {}
+[17.342281] (-) TimerEvent: {}
+[17.442439] (-) TimerEvent: {}
+[17.542757] (-) TimerEvent: {}
+[17.643082] (-) TimerEvent: {}
+[17.743279] (-) TimerEvent: {}
+[17.843526] (-) TimerEvent: {}
+[17.943719] (-) TimerEvent: {}
+[18.043909] (-) TimerEvent: {}
+[18.144175] (-) TimerEvent: {}
+[18.244367] (-) TimerEvent: {}
+[18.344663] (-) TimerEvent: {}
+[18.444830] (-) TimerEvent: {}
+[18.545133] (-) TimerEvent: {}
+[18.645363] (-) TimerEvent: {}
+[18.745587] (-) TimerEvent: {}
+[18.845870] (-) TimerEvent: {}
+[18.946052] (-) TimerEvent: {}
+[19.046330] (-) TimerEvent: {}
+[19.146529] (-) TimerEvent: {}
+[19.246806] (-) TimerEvent: {}
+[19.346965] (-) TimerEvent: {}
+[19.447225] (-) TimerEvent: {}
+[19.547429] (-) TimerEvent: {}
+[19.647681] (-) TimerEvent: {}
+[19.747938] (-) TimerEvent: {}
+[19.848102] (-) TimerEvent: {}
+[19.948398] (-) TimerEvent: {}
+[20.048709] (-) TimerEvent: {}
+[20.149017] (-) TimerEvent: {}
+[20.249193] (-) TimerEvent: {}
+[20.349480] (-) TimerEvent: {}
+[20.449677] (-) TimerEvent: {}
+[20.549948] (-) TimerEvent: {}
+[20.650121] (-) TimerEvent: {}
+[20.750269] (-) TimerEvent: {}
+[20.850432] (-) TimerEvent: {}
+[20.950687] (-) TimerEvent: {}
+[21.050903] (-) TimerEvent: {}
+[21.151083] (-) TimerEvent: {}
+[21.251240] (-) TimerEvent: {}
+[21.351428] (-) TimerEvent: {}
+[21.451701] (-) TimerEvent: {}
+[21.552121] (-) TimerEvent: {}
+[21.652379] (-) TimerEvent: {}
+[21.752601] (-) TimerEvent: {}
+[21.852815] (-) TimerEvent: {}
+[21.953010] (-) TimerEvent: {}
+[22.053295] (-) TimerEvent: {}
+[22.153463] (-) TimerEvent: {}
+[22.253607] (-) TimerEvent: {}
+[22.353894] (-) TimerEvent: {}
+[22.454192] (-) TimerEvent: {}
+[22.554496] (-) TimerEvent: {}
+[22.654664] (-) TimerEvent: {}
+[22.754847] (-) TimerEvent: {}
+[22.855038] (-) TimerEvent: {}
+[22.955321] (-) TimerEvent: {}
+[23.055503] (-) TimerEvent: {}
+[23.155810] (-) TimerEvent: {}
+[23.255991] (-) TimerEvent: {}
+[23.356280] (-) TimerEvent: {}
+[23.456509] (-) TimerEvent: {}
+[23.556823] (-) TimerEvent: {}
+[23.657151] (-) TimerEvent: {}
+[23.757364] (-) TimerEvent: {}
+[23.857683] (-) TimerEvent: {}
+[23.958010] (-) TimerEvent: {}
+[24.058284] (-) TimerEvent: {}
+[24.158567] (-) TimerEvent: {}
+[24.258883] (-) TimerEvent: {}
+[24.359043] (-) TimerEvent: {}
+[24.459229] (-) TimerEvent: {}
+[24.559532] (-) TimerEvent: {}
+[24.659737] (-) TimerEvent: {}
+[24.760027] (-) TimerEvent: {}
+[24.860311] (-) TimerEvent: {}
+[24.960664] (-) TimerEvent: {}
+[25.060969] (-) TimerEvent: {}
+[25.161137] (-) TimerEvent: {}
+[25.261403] (-) TimerEvent: {}
+[25.361572] (-) TimerEvent: {}
+[25.461783] (-) TimerEvent: {}
+[25.562053] (-) TimerEvent: {}
+[25.662221] (-) TimerEvent: {}
+[25.762393] (-) TimerEvent: {}
+[25.862581] (-) TimerEvent: {}
+[25.962774] (-) TimerEvent: {}
+[26.063023] (-) TimerEvent: {}
+[26.163308] (-) TimerEvent: {}
+[26.263479] (-) TimerEvent: {}
+[26.363624] (-) TimerEvent: {}
+[26.463780] (-) TimerEvent: {}
+[26.564100] (-) TimerEvent: {}
+[26.664259] (-) TimerEvent: {}
+[26.764439] (-) TimerEvent: {}
+[26.864645] (-) TimerEvent: {}
+[26.964936] (-) TimerEvent: {}
+[27.065181] (-) TimerEvent: {}
+[27.165396] (-) TimerEvent: {}
+[27.265564] (-) TimerEvent: {}
+[27.365855] (-) TimerEvent: {}
+[27.466031] (-) TimerEvent: {}
+[27.566334] (-) TimerEvent: {}
+[27.666533] (-) TimerEvent: {}
+[27.766700] (-) TimerEvent: {}
+[27.866999] (-) TimerEvent: {}
+[27.967166] (-) TimerEvent: {}
+[28.067393] (-) TimerEvent: {}
+[28.167609] (-) TimerEvent: {}
+[28.267897] (-) TimerEvent: {}
+[28.368167] (-) TimerEvent: {}
+[28.468423] (-) TimerEvent: {}
+[28.568703] (-) TimerEvent: {}
+[28.669025] (-) TimerEvent: {}
+[28.769289] (-) TimerEvent: {}
+[28.869432] (-) TimerEvent: {}
+[28.969641] (-) TimerEvent: {}
+[29.069855] (-) TimerEvent: {}
+[29.170078] (-) TimerEvent: {}
+[29.270349] (-) TimerEvent: {}
+[29.370507] (-) TimerEvent: {}
+[29.470732] (-) TimerEvent: {}
+[29.570930] (-) TimerEvent: {}
+[29.671154] (-) TimerEvent: {}
+[29.771398] (-) TimerEvent: {}
+[29.871560] (-) TimerEvent: {}
+[29.971731] (-) TimerEvent: {}
+[30.032034] (phasespace_msgs_ros2) JobProgress: {'identifier': 'phasespace_msgs_ros2', 'progress': 'cmake'}
+[30.032810] (phasespace_msgs_ros2) Command: {'cmd': ['/usr/bin/cmake', '/home/anshul/Research/PostDoc/mocap/phasespace-mocap-ros2/phasespace_msgs_ros2', '-DPython3_EXECUTABLE=/usr/bin/python3', '-DCMAKE_INSTALL_PREFIX=/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2'], 'cwd': '/home/anshul/Research/PostDoc/mocap/build/phasespace_msgs_ros2', 'env': OrderedDict([('GJS_DEBUG_TOPICS', 'JS ERROR;JS LOG'), ('LESSOPEN', '| /usr/bin/lesspipe %s'), ('VSCODE_CWD', '/home/anshul'), ('VSCODE_ESM_ENTRYPOINT', 'vs/workbench/api/node/extensionHostProcess'), ('CONDA_PROMPT_MODIFIER', '(base)'), ('CODEX_CI', '1'), ('USER', 'anshul'), ('CODEX_INTERNAL_ORIGINATOR_OVERRIDE', 'codex_vscode'), ('VSCODE_NLS_CONFIG', '{"userLocale":"en-us","osLocale":"en-us","resolvedLanguage":"en","defaultMessagesFile":"/usr/share/code/resources/app/out/nls.messages.json","locale":"en-us","availableLanguages":{}}'), ('VSCODE_HANDLES_UNCAUGHT_ERRORS', 'true'), ('XDG_SESSION_TYPE', 'x11'), ('DEBUG', 'release'), ('SHLVL', '0'), ('LD_LIBRARY_PATH', '/home/anshul/casadi/build/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/home/anshul'), ('CHROME_DESKTOP', 'code.desktop'), ('CONDA_SHLVL', '1'), ('DESKTOP_SESSION', 'ubuntu'), ('VSCODE_IPC_HOOK', '/run/user/1000/vscode-0b922b41-1.99-main.sock'), ('GIO_LAUNCHED_DESKTOP_FILE', '/usr/share/applications/code.desktop'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('PAGER', 'cat'), ('MANAGERPID', '1996'), ('LC_CTYPE', 'C.UTF-8'), ('SYSTEMD_EXEC_PID', '2292'), ('NO_COLOR', '1'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLORTERM', ''), ('GIO_LAUNCHED_DESKTOP_FILE_PID', '13935'), ('_colcon_cd_root', '/opt/ros/humble/'), ('VSCODE_CRASH_REPORTER_PROCESS_TYPE', 'extensionHost'), ('MANDATORY_PATH', '/usr/share/gconf/ubuntu.mandatory.path'), ('VSCODE_L10N_BUNDLE_LOCATION', ''), ('ROS_DISTRO', 'humble'), ('GTK_IM_MODULE', 'ibus'), ('LOGNAME', 'anshul'), ('JOURNAL_STREAM', '8:17202'), ('_', '/usr/bin/env'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('DEFAULTS_PATH', '/usr/share/gconf/ubuntu.default.path'), ('RUST_LOG', 'warn'), ('USERNAME', 'anshul'), ('TERM', 'dumb'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('ROS_LOCALHOST_ONLY', '0'), ('WINDOWPATH', '2'), ('PATH', '/usr/bin:/bin:/usr/sbin:/sbin:/opt/ros/humble/bin'), ('SESSION_MANAGER', 'local/anshul-Linux:@/tmp/.ICE-unix/2268,unix/anshul-Linux:/tmp/.ICE-unix/2268'), ('INVOCATION_ID', '73cf8843a98c4ec9ad96ba6ba4f95413'), ('XDG_MENU_PREFIX', 'gnome-'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('GDK_BACKEND', 'x11'), ('DISPLAY', ':1'), ('CODEX_SANDBOX_NETWORK_DISABLED', '1'), ('LANG', 'en_US.UTF-8'), ('XDG_CURRENT_DESKTOP', 'Unity'), ('XMODIFIERS', '@im=ibus'), ('GH_PAGER', 'cat'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/1000/gdm/Xauthority'), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('GSETTINGS_SCHEMA_DIR', '/home/anshul/miniconda3/share/glib-2.0/schemas'), ('AMENT_PREFIX_PATH', '/opt/ros/humble'), ('CONDA_PYTHON_EXE', '/home/anshul/miniconda3/bin/python'), ('ORIGINAL_XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('SHELL', '/bin/bash'), ('QT_ACCESSIBILITY', '1'), ('ELECTRON_RUN_AS_NODE', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('CONDA_DEFAULT_ENV', 'base'), ('CODEX_THREAD_ID', '019da236-c726-7413-b965-d416169df785'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('GJS_DEBUG_OUTPUT', 'stderr'), ('GIT_PAGER', 'cat'), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/anshul/Research/PostDoc/mocap/build/phasespace_msgs_ros2'), ('LC_ALL', 'en_US.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('CONDA_EXE', '/home/anshul/miniconda3/bin/conda'), ('VSCODE_CODE_CACHE_PATH', '/home/anshul/.config/Code/CachedData/17baf841131aa23349f217ca7c570c76ee87b957'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('CONDA_PREFIX', '/home/anshul/miniconda3'), ('COLCON', '1'), ('VSCODE_PID', '13935'), ('CMAKE_PREFIX_PATH', '/opt/ros/humble')]), 'shell': False}
+[30.071814] (-) TimerEvent: {}
+[30.076034] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- The C compiler identification is GNU 11.4.0\n'}
+[30.114132] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- The CXX compiler identification is GNU 11.4.0\n'}
+[30.119074] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Detecting C compiler ABI info\n'}
+[30.164741] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Detecting C compiler ABI info - done\n'}
+[30.169970] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc - skipped\n'}
+[30.170289] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Detecting C compile features\n'}
+[30.170424] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Detecting C compile features - done\n'}
+[30.171900] (-) TimerEvent: {}
+[30.172921] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info\n'}
+[30.229376] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info - done\n'}
+[30.234778] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++ - skipped\n'}
+[30.235015] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Detecting CXX compile features\n'}
+[30.235313] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Detecting CXX compile features - done\n'}
+[30.236588] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)\n'}
+[30.272036] (-) TimerEvent: {}
+[30.337475] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter \n'}
+[30.372123] (-) TimerEvent: {}
+[30.387705] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)\n'}
+[30.389845] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c\n'}
+[30.393381] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)\n'}
+[30.419537] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp\n'}
+[30.436047] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Found std_msgs: 4.8.0 (/opt/ros/humble/share/std_msgs/cmake)\n'}
+[30.472266] (-) TimerEvent: {}
+[30.572461] (-) TimerEvent: {}
+[30.616924] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)\n'}
+[30.672649] (-) TimerEvent: {}
+[30.746663] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c\n'}
+[30.772832] (-) TimerEvent: {}
+[30.872916] (-) TimerEvent: {}
+[30.913806] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp\n'}
+[30.929586] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") \n'}
+[30.930119] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)\n'}
+[30.949505] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") \n'}
+[30.949604] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Using PYTHON_EXECUTABLE: /usr/bin/python3\n'}
+[30.949634] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10\n'}
+[30.949658] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so\n'}
+[30.962360] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Found PythonExtra: .so  \n'}
+[30.973106] (-) TimerEvent: {}
+[30.995108] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Configuring done\n'}
+[31.016743] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Generating done\n'}
+[31.023715] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Build files have been written to: /home/anshul/Research/PostDoc/mocap/build/phasespace_msgs_ros2\n'}
+[31.073317] (-) TimerEvent: {}
+[31.173529] (-) TimerEvent: {}
+[31.273850] (-) TimerEvent: {}
+[31.374049] (-) TimerEvent: {}
+[31.474350] (-) TimerEvent: {}
+[31.574560] (-) TimerEvent: {}
+[31.674855] (-) TimerEvent: {}
+[31.775167] (-) TimerEvent: {}
+[31.875440] (-) TimerEvent: {}
+[31.975703] (-) TimerEvent: {}
+[32.076000] (-) TimerEvent: {}
+[32.176320] (-) TimerEvent: {}
+[32.276598] (-) TimerEvent: {}
+[32.376855] (-) TimerEvent: {}
+[32.477132] (-) TimerEvent: {}
+[32.577418] (-) TimerEvent: {}
+[32.677709] (-) TimerEvent: {}
+[32.777992] (-) TimerEvent: {}
+[32.878278] (-) TimerEvent: {}
+[32.978536] (-) TimerEvent: {}
+[33.078788] (-) TimerEvent: {}
+[33.179108] (-) TimerEvent: {}
+[33.279332] (-) TimerEvent: {}
+[33.379585] (-) TimerEvent: {}
+[33.479741] (-) TimerEvent: {}
+[33.580006] (-) TimerEvent: {}
+[33.680290] (-) TimerEvent: {}
+[33.780562] (-) TimerEvent: {}
+[33.880815] (-) TimerEvent: {}
+[33.981092] (-) TimerEvent: {}
+[34.081387] (-) TimerEvent: {}
+[34.181650] (-) TimerEvent: {}
+[34.281924] (-) TimerEvent: {}
+[34.382196] (-) TimerEvent: {}
+[34.482465] (-) TimerEvent: {}
+[34.582725] (-) TimerEvent: {}
+[34.683026] (-) TimerEvent: {}
+[34.783309] (-) TimerEvent: {}
+[34.883570] (-) TimerEvent: {}
+[34.983819] (-) TimerEvent: {}
+[35.083974] (-) TimerEvent: {}
+[35.184228] (-) TimerEvent: {}
+[35.284418] (-) TimerEvent: {}
+[35.384689] (-) TimerEvent: {}
+[35.484973] (-) TimerEvent: {}
+[35.585256] (-) TimerEvent: {}
+[35.685549] (-) TimerEvent: {}
+[35.785820] (-) TimerEvent: {}
+[35.886094] (-) TimerEvent: {}
+[35.986363] (-) TimerEvent: {}
+[36.086649] (-) TimerEvent: {}
+[36.186932] (-) TimerEvent: {}
+[36.287203] (-) TimerEvent: {}
+[36.387410] (-) TimerEvent: {}
+[36.487664] (-) TimerEvent: {}
+[36.587921] (-) TimerEvent: {}
+[36.688207] (-) TimerEvent: {}
+[36.788473] (-) TimerEvent: {}
+[36.888734] (-) TimerEvent: {}
+[36.988999] (-) TimerEvent: {}
+[37.089306] (-) TimerEvent: {}
+[37.189606] (-) TimerEvent: {}
+[37.289884] (-) TimerEvent: {}
+[37.390156] (-) TimerEvent: {}
+[37.490307] (-) TimerEvent: {}
+[37.590597] (-) TimerEvent: {}
+[37.690809] (-) TimerEvent: {}
+[37.791089] (-) TimerEvent: {}
+[37.891328] (-) TimerEvent: {}
+[37.991495] (-) TimerEvent: {}
+[38.091647] (-) TimerEvent: {}
+[38.191765] (-) TimerEvent: {}
+[38.291972] (-) TimerEvent: {}
+[38.392153] (-) TimerEvent: {}
+[38.492440] (-) TimerEvent: {}
+[38.592654] (-) TimerEvent: {}
+[38.692921] (-) TimerEvent: {}
+[38.793106] (-) TimerEvent: {}
+[38.893412] (-) TimerEvent: {}
+[38.993620] (-) TimerEvent: {}
+[39.093926] (-) TimerEvent: {}
+[39.194115] (-) TimerEvent: {}
+[39.294372] (-) TimerEvent: {}
+[39.394646] (-) TimerEvent: {}
+[39.494806] (-) TimerEvent: {}
+[39.594946] (-) TimerEvent: {}
+[39.695093] (-) TimerEvent: {}
+[39.795282] (-) TimerEvent: {}
+[39.895489] (-) TimerEvent: {}
+[39.995675] (-) TimerEvent: {}
+[40.095955] (-) TimerEvent: {}
+[40.196112] (-) TimerEvent: {}
+[40.296400] (-) TimerEvent: {}
+[40.396587] (-) TimerEvent: {}
+[40.496885] (-) TimerEvent: {}
+[40.597062] (-) TimerEvent: {}
+[40.697222] (-) TimerEvent: {}
+[40.797389] (-) TimerEvent: {}
+[40.897697] (-) TimerEvent: {}
+[40.997893] (-) TimerEvent: {}
+[41.098180] (-) TimerEvent: {}
+[41.198358] (-) TimerEvent: {}
+[41.298612] (-) TimerEvent: {}
+[41.398932] (-) TimerEvent: {}
+[41.499236] (-) TimerEvent: {}
+[41.599537] (-) TimerEvent: {}
+[41.699721] (-) TimerEvent: {}
+[41.799990] (-) TimerEvent: {}
+[41.900380] (-) TimerEvent: {}
+[42.000586] (-) TimerEvent: {}
+[42.100747] (-) TimerEvent: {}
+[42.201020] (-) TimerEvent: {}
+[42.301196] (-) TimerEvent: {}
+[42.401495] (-) TimerEvent: {}
+[42.501788] (-) TimerEvent: {}
+[42.601922] (-) TimerEvent: {}
+[42.702175] (-) TimerEvent: {}
+[42.802449] (-) TimerEvent: {}
+[42.902617] (-) TimerEvent: {}
+[43.002814] (-) TimerEvent: {}
+[43.103075] (-) TimerEvent: {}
+[43.203244] (-) TimerEvent: {}
+[43.303551] (-) TimerEvent: {}
+[43.403732] (-) TimerEvent: {}
+[43.504023] (-) TimerEvent: {}
+[43.604305] (-) TimerEvent: {}
+[43.704586] (-) TimerEvent: {}
+[43.804731] (-) TimerEvent: {}
+[43.904929] (-) TimerEvent: {}
+[44.005217] (-) TimerEvent: {}
+[44.105439] (-) TimerEvent: {}
+[44.205641] (-) TimerEvent: {}
+[44.305947] (-) TimerEvent: {}
+[44.406308] (-) TimerEvent: {}
+[44.506471] (-) TimerEvent: {}
+[44.606652] (-) TimerEvent: {}
+[44.706935] (-) TimerEvent: {}
+[44.807116] (-) TimerEvent: {}
+[44.907290] (-) TimerEvent: {}
+[45.007491] (-) TimerEvent: {}
+[45.107804] (-) TimerEvent: {}
+[45.207974] (-) TimerEvent: {}
+[45.308141] (-) TimerEvent: {}
+[45.408344] (-) TimerEvent: {}
+[45.508633] (-) TimerEvent: {}
+[45.608811] (-) TimerEvent: {}
+[45.709090] (-) TimerEvent: {}
+[45.809256] (-) TimerEvent: {}
+[45.909425] (-) TimerEvent: {}
+[46.009628] (-) TimerEvent: {}
+[46.109849] (-) TimerEvent: {}
+[46.210027] (-) TimerEvent: {}
+[46.310270] (-) TimerEvent: {}
+[46.410493] (-) TimerEvent: {}
+[46.510675] (-) TimerEvent: {}
+[46.610969] (-) TimerEvent: {}
+[46.711223] (-) TimerEvent: {}
+[46.811498] (-) TimerEvent: {}
+[46.911715] (-) TimerEvent: {}
+[47.012020] (-) TimerEvent: {}
+[47.112327] (-) TimerEvent: {}
+[47.212513] (-) TimerEvent: {}
+[47.312680] (-) TimerEvent: {}
+[47.413066] (-) TimerEvent: {}
+[47.513217] (-) TimerEvent: {}
+[47.613409] (-) TimerEvent: {}
+[47.713683] (-) TimerEvent: {}
+[47.814002] (-) TimerEvent: {}
+[47.914211] (-) TimerEvent: {}
+[48.014468] (-) TimerEvent: {}
+[48.114660] (-) TimerEvent: {}
+[48.214944] (-) TimerEvent: {}
+[48.315214] (-) TimerEvent: {}
+[48.415497] (-) TimerEvent: {}
+[48.515692] (-) TimerEvent: {}
+[48.615861] (-) TimerEvent: {}
+[48.716142] (-) TimerEvent: {}
+[48.816426] (-) TimerEvent: {}
+[48.916766] (-) TimerEvent: {}
+[49.017073] (-) TimerEvent: {}
+[49.117214] (-) TimerEvent: {}
+[49.217416] (-) TimerEvent: {}
+[49.317649] (-) TimerEvent: {}
+[49.417809] (-) TimerEvent: {}
+[49.518120] (-) TimerEvent: {}
+[49.618335] (-) TimerEvent: {}
+[49.718584] (-) TimerEvent: {}
+[49.818866] (-) TimerEvent: {}
+[49.919183] (-) TimerEvent: {}
+[50.019402] (-) TimerEvent: {}
+[50.119674] (-) TimerEvent: {}
+[50.219907] (-) TimerEvent: {}
+[50.320262] (-) TimerEvent: {}
+[50.420435] (-) TimerEvent: {}
+[50.520731] (-) TimerEvent: {}
+[50.621013] (-) TimerEvent: {}
+[50.721287] (-) TimerEvent: {}
+[50.821474] (-) TimerEvent: {}
+[50.921725] (-) TimerEvent: {}
+[51.022031] (-) TimerEvent: {}
+[51.122321] (-) TimerEvent: {}
+[51.222530] (-) TimerEvent: {}
+[51.322806] (-) TimerEvent: {}
+[51.423113] (-) TimerEvent: {}
+[51.523409] (-) TimerEvent: {}
+[51.623681] (-) TimerEvent: {}
+[51.723974] (-) TimerEvent: {}
+[51.824140] (-) TimerEvent: {}
+[51.924430] (-) TimerEvent: {}
+[52.024649] (-) TimerEvent: {}
+[52.124980] (-) TimerEvent: {}
+[52.225134] (-) TimerEvent: {}
+[52.325433] (-) TimerEvent: {}
+[52.425624] (-) TimerEvent: {}
+[52.525786] (-) TimerEvent: {}
+[52.626069] (-) TimerEvent: {}
+[52.726262] (-) TimerEvent: {}
+[52.826511] (-) TimerEvent: {}
+[52.926715] (-) TimerEvent: {}
+[53.027008] (-) TimerEvent: {}
+[53.127299] (-) TimerEvent: {}
+[53.227601] (-) TimerEvent: {}
+[53.327748] (-) TimerEvent: {}
+[53.427916] (-) TimerEvent: {}
+[53.528077] (-) TimerEvent: {}
+[53.628218] (-) TimerEvent: {}
+[53.728515] (-) TimerEvent: {}
+[53.828814] (-) TimerEvent: {}
+[53.929117] (-) TimerEvent: {}
+[54.029309] (-) TimerEvent: {}
+[54.129604] (-) TimerEvent: {}
+[54.229910] (-) TimerEvent: {}
+[54.330101] (-) TimerEvent: {}
+[54.430302] (-) TimerEvent: {}
+[54.530509] (-) TimerEvent: {}
+[54.630773] (-) TimerEvent: {}
+[54.731100] (-) TimerEvent: {}
+[54.831278] (-) TimerEvent: {}
+[54.931482] (-) TimerEvent: {}
+[55.031647] (-) TimerEvent: {}
+[55.131924] (-) TimerEvent: {}
+[55.232212] (-) TimerEvent: {}
+[55.332527] (-) TimerEvent: {}
+[55.432803] (-) TimerEvent: {}
+[55.532965] (-) TimerEvent: {}
+[55.633147] (-) TimerEvent: {}
+[55.733417] (-) TimerEvent: {}
+[55.833606] (-) TimerEvent: {}
+[55.933896] (-) TimerEvent: {}
+[56.034059] (-) TimerEvent: {}
+[56.134340] (-) TimerEvent: {}
+[56.234557] (-) TimerEvent: {}
+[56.334921] (-) TimerEvent: {}
+[56.435088] (-) TimerEvent: {}
+[56.535249] (-) TimerEvent: {}
+[56.635452] (-) TimerEvent: {}
+[56.735640] (-) TimerEvent: {}
+[56.835923] (-) TimerEvent: {}
+[56.936090] (-) TimerEvent: {}
+[57.036379] (-) TimerEvent: {}
+[57.136579] (-) TimerEvent: {}
+[57.236855] (-) TimerEvent: {}
+[57.337030] (-) TimerEvent: {}
+[57.437345] (-) TimerEvent: {}
+[57.537546] (-) TimerEvent: {}
+[57.637693] (-) TimerEvent: {}
+[57.737949] (-) TimerEvent: {}
+[57.838094] (-) TimerEvent: {}
+[57.938389] (-) TimerEvent: {}
+[58.038691] (-) TimerEvent: {}
+[58.138959] (-) TimerEvent: {}
+[58.239228] (-) TimerEvent: {}
+[58.339536] (-) TimerEvent: {}
+[58.439837] (-) TimerEvent: {}
+[58.540112] (-) TimerEvent: {}
+[58.640418] (-) TimerEvent: {}
+[58.740589] (-) TimerEvent: {}
+[58.840753] (-) TimerEvent: {}
+[58.941002] (-) TimerEvent: {}
+[59.041226] (-) TimerEvent: {}
+[59.141478] (-) TimerEvent: {}
+[59.241656] (-) TimerEvent: {}
+[59.341876] (-) TimerEvent: {}
+[59.442166] (-) TimerEvent: {}
+[59.542390] (-) TimerEvent: {}
+[59.642606] (-) TimerEvent: {}
+[59.742887] (-) TimerEvent: {}
+[59.843093] (-) TimerEvent: {}
+[59.943298] (-) TimerEvent: {}
+[60.036864] (phasespace_msgs_ros2) CommandEnded: {'returncode': 0}
+[60.037283] (phasespace_msgs_ros2) JobProgress: {'identifier': 'phasespace_msgs_ros2', 'progress': 'build'}
+[60.037694] (phasespace_msgs_ros2) Command: {'cmd': ['/usr/bin/cmake', '--build', '/home/anshul/Research/PostDoc/mocap/build/phasespace_msgs_ros2', '--', '-j20', '-l20'], 'cwd': '/home/anshul/Research/PostDoc/mocap/build/phasespace_msgs_ros2', 'env': OrderedDict([('GJS_DEBUG_TOPICS', 'JS ERROR;JS LOG'), ('LESSOPEN', '| /usr/bin/lesspipe %s'), ('VSCODE_CWD', '/home/anshul'), ('VSCODE_ESM_ENTRYPOINT', 'vs/workbench/api/node/extensionHostProcess'), ('CONDA_PROMPT_MODIFIER', '(base)'), ('CODEX_CI', '1'), ('USER', 'anshul'), ('CODEX_INTERNAL_ORIGINATOR_OVERRIDE', 'codex_vscode'), ('VSCODE_NLS_CONFIG', '{"userLocale":"en-us","osLocale":"en-us","resolvedLanguage":"en","defaultMessagesFile":"/usr/share/code/resources/app/out/nls.messages.json","locale":"en-us","availableLanguages":{}}'), ('VSCODE_HANDLES_UNCAUGHT_ERRORS', 'true'), ('XDG_SESSION_TYPE', 'x11'), ('DEBUG', 'release'), ('SHLVL', '0'), ('LD_LIBRARY_PATH', '/home/anshul/casadi/build/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/home/anshul'), ('CHROME_DESKTOP', 'code.desktop'), ('CONDA_SHLVL', '1'), ('DESKTOP_SESSION', 'ubuntu'), ('VSCODE_IPC_HOOK', '/run/user/1000/vscode-0b922b41-1.99-main.sock'), ('GIO_LAUNCHED_DESKTOP_FILE', '/usr/share/applications/code.desktop'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('PAGER', 'cat'), ('MANAGERPID', '1996'), ('LC_CTYPE', 'C.UTF-8'), ('SYSTEMD_EXEC_PID', '2292'), ('NO_COLOR', '1'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLORTERM', ''), ('GIO_LAUNCHED_DESKTOP_FILE_PID', '13935'), ('_colcon_cd_root', '/opt/ros/humble/'), ('VSCODE_CRASH_REPORTER_PROCESS_TYPE', 'extensionHost'), ('MANDATORY_PATH', '/usr/share/gconf/ubuntu.mandatory.path'), ('VSCODE_L10N_BUNDLE_LOCATION', ''), ('ROS_DISTRO', 'humble'), ('GTK_IM_MODULE', 'ibus'), ('LOGNAME', 'anshul'), ('JOURNAL_STREAM', '8:17202'), ('_', '/usr/bin/env'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('DEFAULTS_PATH', '/usr/share/gconf/ubuntu.default.path'), ('RUST_LOG', 'warn'), ('USERNAME', 'anshul'), ('TERM', 'dumb'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('ROS_LOCALHOST_ONLY', '0'), ('WINDOWPATH', '2'), ('PATH', '/usr/bin:/bin:/usr/sbin:/sbin:/opt/ros/humble/bin'), ('SESSION_MANAGER', 'local/anshul-Linux:@/tmp/.ICE-unix/2268,unix/anshul-Linux:/tmp/.ICE-unix/2268'), ('INVOCATION_ID', '73cf8843a98c4ec9ad96ba6ba4f95413'), ('XDG_MENU_PREFIX', 'gnome-'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('GDK_BACKEND', 'x11'), ('DISPLAY', ':1'), ('CODEX_SANDBOX_NETWORK_DISABLED', '1'), ('LANG', 'en_US.UTF-8'), ('XDG_CURRENT_DESKTOP', 'Unity'), ('XMODIFIERS', '@im=ibus'), ('GH_PAGER', 'cat'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/1000/gdm/Xauthority'), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('GSETTINGS_SCHEMA_DIR', '/home/anshul/miniconda3/share/glib-2.0/schemas'), ('AMENT_PREFIX_PATH', '/opt/ros/humble'), ('CONDA_PYTHON_EXE', '/home/anshul/miniconda3/bin/python'), ('ORIGINAL_XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('SHELL', '/bin/bash'), ('QT_ACCESSIBILITY', '1'), ('ELECTRON_RUN_AS_NODE', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('CONDA_DEFAULT_ENV', 'base'), ('CODEX_THREAD_ID', '019da236-c726-7413-b965-d416169df785'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('GJS_DEBUG_OUTPUT', 'stderr'), ('GIT_PAGER', 'cat'), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/anshul/Research/PostDoc/mocap/build/phasespace_msgs_ros2'), ('LC_ALL', 'en_US.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('CONDA_EXE', '/home/anshul/miniconda3/bin/conda'), ('VSCODE_CODE_CACHE_PATH', '/home/anshul/.config/Code/CachedData/17baf841131aa23349f217ca7c570c76ee87b957'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('CONDA_PREFIX', '/home/anshul/miniconda3'), ('COLCON', '1'), ('VSCODE_PID', '13935'), ('CMAKE_PREFIX_PATH', '/opt/ros/humble')]), 'shell': False}
+[60.043394] (-) TimerEvent: {}
+[60.069189] (phasespace_msgs_ros2) StdoutLine: {'line': b'Consolidate compiler generated dependencies of target phasespace_msgs_ros2__rosidl_generator_c\n'}
+[60.075186] (phasespace_msgs_ros2) StdoutLine: {'line': b'[  1%] Built target phasespace_msgs_ros2__cpp\n'}
+[60.077732] (phasespace_msgs_ros2) StdoutLine: {'line': b'[ 12%] Built target phasespace_msgs_ros2__rosidl_generator_c\n'}
+[60.083706] (phasespace_msgs_ros2) StdoutLine: {'line': b'[ 12%] Built target ament_cmake_python_copy_phasespace_msgs_ros2\n'}
+[60.084742] (phasespace_msgs_ros2) StdoutLine: {'line': b'Consolidate compiler generated dependencies of target phasespace_msgs_ros2__rosidl_typesupport_c\n'}
+[60.084865] (phasespace_msgs_ros2) StdoutLine: {'line': b'Consolidate compiler generated dependencies of target phasespace_msgs_ros2__rosidl_typesupport_introspection_cpp\n'}
+[60.085164] (phasespace_msgs_ros2) StdoutLine: {'line': b'Consolidate compiler generated dependencies of target phasespace_msgs_ros2__rosidl_typesupport_introspection_c\n'}
+[60.088114] (phasespace_msgs_ros2) StdoutLine: {'line': b'Consolidate compiler generated dependencies of target phasespace_msgs_ros2__rosidl_typesupport_fastrtps_cpp\n'}
+[60.088319] (phasespace_msgs_ros2) StdoutLine: {'line': b'Consolidate compiler generated dependencies of target phasespace_msgs_ros2__rosidl_typesupport_cpp\n'}
+[60.091373] (phasespace_msgs_ros2) StdoutLine: {'line': b'Consolidate compiler generated dependencies of target phasespace_msgs_ros2__rosidl_typesupport_fastrtps_c\n'}
+[60.091722] (phasespace_msgs_ros2) StdoutLine: {'line': b'[ 42%] Built target phasespace_msgs_ros2__rosidl_typesupport_introspection_c\n'}
+[60.091814] (phasespace_msgs_ros2) StdoutLine: {'line': b'[ 42%] Built target phasespace_msgs_ros2__rosidl_typesupport_c\n'}
+[60.092046] (phasespace_msgs_ros2) StdoutLine: {'line': b'[ 46%] Built target phasespace_msgs_ros2__rosidl_typesupport_introspection_cpp\n'}
+[60.096447] (phasespace_msgs_ros2) StdoutLine: {'line': b'[ 67%] Built target phasespace_msgs_ros2__rosidl_typesupport_fastrtps_cpp\n'}
+[60.096580] (phasespace_msgs_ros2) StdoutLine: {'line': b'[ 69%] Built target phasespace_msgs_ros2__rosidl_typesupport_cpp\n'}
+[60.100335] (phasespace_msgs_ros2) StdoutLine: {'line': b'[ 80%] Built target phasespace_msgs_ros2__rosidl_typesupport_fastrtps_c\n'}
+[60.116156] (phasespace_msgs_ros2) StdoutLine: {'line': b'[ 80%] Built target phasespace_msgs_ros2\n'}
+[60.132439] (phasespace_msgs_ros2) StdoutLine: {'line': b'[ 81%] Built target phasespace_msgs_ros2__py\n'}
+[60.143530] (-) TimerEvent: {}
+[60.147246] (phasespace_msgs_ros2) StdoutLine: {'line': b'Consolidate compiler generated dependencies of target phasespace_msgs_ros2__rosidl_generator_py\n'}
+[60.159367] (phasespace_msgs_ros2) StdoutLine: {'line': b'[ 91%] Built target phasespace_msgs_ros2__rosidl_generator_py\n'}
+[60.170055] (phasespace_msgs_ros2) StdoutLine: {'line': b'Consolidate compiler generated dependencies of target phasespace_msgs_ros2__rosidl_typesupport_introspection_c__pyext\n'}
+[60.170205] (phasespace_msgs_ros2) StdoutLine: {'line': b'Consolidate compiler generated dependencies of target phasespace_msgs_ros2__rosidl_typesupport_c__pyext\n'}
+[60.170276] (phasespace_msgs_ros2) StdoutLine: {'line': b'Consolidate compiler generated dependencies of target phasespace_msgs_ros2__rosidl_typesupport_fastrtps_c__pyext\n'}
+[60.178496] (phasespace_msgs_ros2) StdoutLine: {'line': b'[ 94%] Built target phasespace_msgs_ros2__rosidl_typesupport_introspection_c__pyext\n'}
+[60.178603] (phasespace_msgs_ros2) StdoutLine: {'line': b'[ 97%] Built target phasespace_msgs_ros2__rosidl_typesupport_fastrtps_c__pyext\n'}
+[60.179310] (phasespace_msgs_ros2) StdoutLine: {'line': b'[100%] Built target phasespace_msgs_ros2__rosidl_typesupport_c__pyext\n'}
+[60.243610] (-) TimerEvent: {}
+[60.248734] (phasespace_msgs_ros2) StdoutLine: {'line': b'running egg_info\n'}
+[60.249042] (phasespace_msgs_ros2) StdoutLine: {'line': b'writing phasespace_msgs_ros2.egg-info/PKG-INFO\n'}
+[60.249234] (phasespace_msgs_ros2) StdoutLine: {'line': b'writing dependency_links to phasespace_msgs_ros2.egg-info/dependency_links.txt\n'}
+[60.249391] (phasespace_msgs_ros2) StdoutLine: {'line': b'writing top-level names to phasespace_msgs_ros2.egg-info/top_level.txt\n'}
+[60.250692] (phasespace_msgs_ros2) StdoutLine: {'line': b"reading manifest file 'phasespace_msgs_ros2.egg-info/SOURCES.txt'\n"}
+[60.250941] (phasespace_msgs_ros2) StdoutLine: {'line': b"writing manifest file 'phasespace_msgs_ros2.egg-info/SOURCES.txt'\n"}
+[60.266872] (phasespace_msgs_ros2) StdoutLine: {'line': b'[100%] Built target ament_cmake_python_build_phasespace_msgs_ros2_egg\n'}
+[60.343833] (-) TimerEvent: {}
+[60.444073] (-) TimerEvent: {}
+[60.544357] (-) TimerEvent: {}
+[60.644677] (-) TimerEvent: {}
+[60.744959] (-) TimerEvent: {}
+[60.845223] (-) TimerEvent: {}
+[60.945509] (-) TimerEvent: {}
+[61.045763] (-) TimerEvent: {}
+[61.146071] (-) TimerEvent: {}
+[61.246332] (-) TimerEvent: {}
+[61.346552] (-) TimerEvent: {}
+[61.446774] (-) TimerEvent: {}
+[61.546988] (-) TimerEvent: {}
+[61.647278] (-) TimerEvent: {}
+[61.747499] (-) TimerEvent: {}
+[61.847783] (-) TimerEvent: {}
+[61.948099] (-) TimerEvent: {}
+[62.048374] (-) TimerEvent: {}
+[62.148669] (-) TimerEvent: {}
+[62.248832] (-) TimerEvent: {}
+[62.349131] (-) TimerEvent: {}
+[62.449298] (-) TimerEvent: {}
+[62.549496] (-) TimerEvent: {}
+[62.649786] (-) TimerEvent: {}
+[62.750080] (-) TimerEvent: {}
+[62.850366] (-) TimerEvent: {}
+[62.950522] (-) TimerEvent: {}
+[63.050826] (-) TimerEvent: {}
+[63.151136] (-) TimerEvent: {}
+[63.251339] (-) TimerEvent: {}
+[63.351616] (-) TimerEvent: {}
+[63.451901] (-) TimerEvent: {}
+[63.552063] (-) TimerEvent: {}
+[63.652227] (-) TimerEvent: {}
+[63.752412] (-) TimerEvent: {}
+[63.852687] (-) TimerEvent: {}
+[63.952947] (-) TimerEvent: {}
+[64.053245] (-) TimerEvent: {}
+[64.153445] (-) TimerEvent: {}
+[64.253627] (-) TimerEvent: {}
+[64.353899] (-) TimerEvent: {}
+[64.454061] (-) TimerEvent: {}
+[64.554339] (-) TimerEvent: {}
+[64.654619] (-) TimerEvent: {}
+[64.754874] (-) TimerEvent: {}
+[64.855178] (-) TimerEvent: {}
+[64.955466] (-) TimerEvent: {}
+[65.055680] (-) TimerEvent: {}
+[65.155963] (-) TimerEvent: {}
+[65.256148] (-) TimerEvent: {}
+[65.356393] (-) TimerEvent: {}
+[65.456537] (-) TimerEvent: {}
+[65.556690] (-) TimerEvent: {}
+[65.656899] (-) TimerEvent: {}
+[65.757046] (-) TimerEvent: {}
+[65.857278] (-) TimerEvent: {}
+[65.957441] (-) TimerEvent: {}
+[66.057596] (-) TimerEvent: {}
+[66.157790] (-) TimerEvent: {}
+[66.257973] (-) TimerEvent: {}
+[66.358198] (-) TimerEvent: {}
+[66.458379] (-) TimerEvent: {}
+[66.558546] (-) TimerEvent: {}
+[66.658792] (-) TimerEvent: {}
+[66.759006] (-) TimerEvent: {}
+[66.859177] (-) TimerEvent: {}
+[66.959389] (-) TimerEvent: {}
+[67.059572] (-) TimerEvent: {}
+[67.159781] (-) TimerEvent: {}
+[67.259980] (-) TimerEvent: {}
+[67.360126] (-) TimerEvent: {}
+[67.460408] (-) TimerEvent: {}
+[67.560587] (-) TimerEvent: {}
+[67.660748] (-) TimerEvent: {}
+[67.760959] (-) TimerEvent: {}
+[67.861105] (-) TimerEvent: {}
+[67.961289] (-) TimerEvent: {}
+[68.061493] (-) TimerEvent: {}
+[68.161667] (-) TimerEvent: {}
+[68.261822] (-) TimerEvent: {}
+[68.361972] (-) TimerEvent: {}
+[68.462134] (-) TimerEvent: {}
+[68.562463] (-) TimerEvent: {}
+[68.662626] (-) TimerEvent: {}
+[68.762771] (-) TimerEvent: {}
+[68.862987] (-) TimerEvent: {}
+[68.963202] (-) TimerEvent: {}
+[69.063370] (-) TimerEvent: {}
+[69.163580] (-) TimerEvent: {}
+[69.263782] (-) TimerEvent: {}
+[69.363970] (-) TimerEvent: {}
+[69.464160] (-) TimerEvent: {}
+[69.564390] (-) TimerEvent: {}
+[69.664610] (-) TimerEvent: {}
+[69.764774] (-) TimerEvent: {}
+[69.864943] (-) TimerEvent: {}
+[69.965167] (-) TimerEvent: {}
+[70.065540] (-) TimerEvent: {}
+[70.165734] (-) TimerEvent: {}
+[70.265962] (-) TimerEvent: {}
+[70.366104] (-) TimerEvent: {}
+[70.466304] (-) TimerEvent: {}
+[70.566697] (-) TimerEvent: {}
+[70.666993] (-) TimerEvent: {}
+[70.767185] (-) TimerEvent: {}
+[70.867412] (-) TimerEvent: {}
+[70.967588] (-) TimerEvent: {}
+[71.067762] (-) TimerEvent: {}
+[71.168148] (-) TimerEvent: {}
+[71.268326] (-) TimerEvent: {}
+[71.368488] (-) TimerEvent: {}
+[71.468638] (-) TimerEvent: {}
+[71.568820] (-) TimerEvent: {}
+[71.668972] (-) TimerEvent: {}
+[71.769148] (-) TimerEvent: {}
+[71.869330] (-) TimerEvent: {}
+[71.969525] (-) TimerEvent: {}
+[72.069777] (-) TimerEvent: {}
+[72.170043] (-) TimerEvent: {}
+[72.270202] (-) TimerEvent: {}
+[72.370385] (-) TimerEvent: {}
+[72.470646] (-) TimerEvent: {}
+[72.570902] (-) TimerEvent: {}
+[72.671164] (-) TimerEvent: {}
+[72.771351] (-) TimerEvent: {}
+[72.871630] (-) TimerEvent: {}
+[72.971823] (-) TimerEvent: {}
+[73.072110] (-) TimerEvent: {}
+[73.172265] (-) TimerEvent: {}
+[73.272475] (-) TimerEvent: {}
+[73.372751] (-) TimerEvent: {}
+[73.473019] (-) TimerEvent: {}
+[73.573178] (-) TimerEvent: {}
+[73.673369] (-) TimerEvent: {}
+[73.773636] (-) TimerEvent: {}
+[73.873820] (-) TimerEvent: {}
+[73.974122] (-) TimerEvent: {}
+[74.074438] (-) TimerEvent: {}
+[74.174642] (-) TimerEvent: {}
+[74.274841] (-) TimerEvent: {}
+[74.374997] (-) TimerEvent: {}
+[74.475172] (-) TimerEvent: {}
+[74.575388] (-) TimerEvent: {}
+[74.675596] (-) TimerEvent: {}
+[74.775819] (-) TimerEvent: {}
+[74.875996] (-) TimerEvent: {}
+[74.976161] (-) TimerEvent: {}
+[75.076327] (-) TimerEvent: {}
+[75.176475] (-) TimerEvent: {}
+[75.276731] (-) TimerEvent: {}
+[75.376881] (-) TimerEvent: {}
+[75.477044] (-) TimerEvent: {}
+[75.577363] (-) TimerEvent: {}
+[75.677638] (-) TimerEvent: {}
+[75.777841] (-) TimerEvent: {}
+[75.877990] (-) TimerEvent: {}
+[75.978225] (-) TimerEvent: {}
+[76.078477] (-) TimerEvent: {}
+[76.178682] (-) TimerEvent: {}
+[76.278912] (-) TimerEvent: {}
+[76.379060] (-) TimerEvent: {}
+[76.479285] (-) TimerEvent: {}
+[76.579453] (-) TimerEvent: {}
+[76.679775] (-) TimerEvent: {}
+[76.779922] (-) TimerEvent: {}
+[76.880097] (-) TimerEvent: {}
+[76.980297] (-) TimerEvent: {}
+[77.080499] (-) TimerEvent: {}
+[77.180771] (-) TimerEvent: {}
+[77.281184] (-) TimerEvent: {}
+[77.381328] (-) TimerEvent: {}
+[77.481547] (-) TimerEvent: {}
+[77.581738] (-) TimerEvent: {}
+[77.681964] (-) TimerEvent: {}
+[77.782215] (-) TimerEvent: {}
+[77.882425] (-) TimerEvent: {}
+[77.982614] (-) TimerEvent: {}
+[78.082962] (-) TimerEvent: {}
+[78.183134] (-) TimerEvent: {}
+[78.283287] (-) TimerEvent: {}
+[78.383473] (-) TimerEvent: {}
+[78.483639] (-) TimerEvent: {}
+[78.584007] (-) TimerEvent: {}
+[78.684169] (-) TimerEvent: {}
+[78.784375] (-) TimerEvent: {}
+[78.884522] (-) TimerEvent: {}
+[78.984789] (-) TimerEvent: {}
+[79.085022] (-) TimerEvent: {}
+[79.185378] (-) TimerEvent: {}
+[79.285582] (-) TimerEvent: {}
+[79.386018] (-) TimerEvent: {}
+[79.486326] (-) TimerEvent: {}
+[79.586539] (-) TimerEvent: {}
+[79.686853] (-) TimerEvent: {}
+[79.787102] (-) TimerEvent: {}
+[79.887477] (-) TimerEvent: {}
+[79.987690] (-) TimerEvent: {}
+[80.087876] (-) TimerEvent: {}
+[80.188076] (-) TimerEvent: {}
+[80.288244] (-) TimerEvent: {}
+[80.388426] (-) TimerEvent: {}
+[80.488594] (-) TimerEvent: {}
+[80.588758] (-) TimerEvent: {}
+[80.689098] (-) TimerEvent: {}
+[80.789366] (-) TimerEvent: {}
+[80.889625] (-) TimerEvent: {}
+[80.989892] (-) TimerEvent: {}
+[81.090050] (-) TimerEvent: {}
+[81.190327] (-) TimerEvent: {}
+[81.290543] (-) TimerEvent: {}
+[81.390851] (-) TimerEvent: {}
+[81.491170] (-) TimerEvent: {}
+[81.591474] (-) TimerEvent: {}
+[81.691658] (-) TimerEvent: {}
+[81.791937] (-) TimerEvent: {}
+[81.892200] (-) TimerEvent: {}
+[81.992353] (-) TimerEvent: {}
+[82.092630] (-) TimerEvent: {}
+[82.192903] (-) TimerEvent: {}
+[82.293072] (-) TimerEvent: {}
+[82.393248] (-) TimerEvent: {}
+[82.493538] (-) TimerEvent: {}
+[82.593746] (-) TimerEvent: {}
+[82.694026] (-) TimerEvent: {}
+[82.794205] (-) TimerEvent: {}
+[82.894472] (-) TimerEvent: {}
+[82.994733] (-) TimerEvent: {}
+[83.095051] (-) TimerEvent: {}
+[83.195351] (-) TimerEvent: {}
+[83.295551] (-) TimerEvent: {}
+[83.395759] (-) TimerEvent: {}
+[83.496005] (-) TimerEvent: {}
+[83.596322] (-) TimerEvent: {}
+[83.696634] (-) TimerEvent: {}
+[83.796836] (-) TimerEvent: {}
+[83.897119] (-) TimerEvent: {}
+[83.997336] (-) TimerEvent: {}
+[84.097605] (-) TimerEvent: {}
+[84.197821] (-) TimerEvent: {}
+[84.297997] (-) TimerEvent: {}
+[84.398278] (-) TimerEvent: {}
+[84.498554] (-) TimerEvent: {}
+[84.598845] (-) TimerEvent: {}
+[84.699153] (-) TimerEvent: {}
+[84.799444] (-) TimerEvent: {}
+[84.899616] (-) TimerEvent: {}
+[84.999897] (-) TimerEvent: {}
+[85.100065] (-) TimerEvent: {}
+[85.200262] (-) TimerEvent: {}
+[85.300451] (-) TimerEvent: {}
+[85.400607] (-) TimerEvent: {}
+[85.500889] (-) TimerEvent: {}
+[85.601176] (-) TimerEvent: {}
+[85.701344] (-) TimerEvent: {}
+[85.801495] (-) TimerEvent: {}
+[85.901826] (-) TimerEvent: {}
+[86.002114] (-) TimerEvent: {}
+[86.102394] (-) TimerEvent: {}
+[86.202669] (-) TimerEvent: {}
+[86.302930] (-) TimerEvent: {}
+[86.403189] (-) TimerEvent: {}
+[86.503443] (-) TimerEvent: {}
+[86.603652] (-) TimerEvent: {}
+[86.703931] (-) TimerEvent: {}
+[86.804092] (-) TimerEvent: {}
+[86.904280] (-) TimerEvent: {}
+[87.004556] (-) TimerEvent: {}
+[87.104827] (-) TimerEvent: {}
+[87.205003] (-) TimerEvent: {}
+[87.305150] (-) TimerEvent: {}
+[87.405426] (-) TimerEvent: {}
+[87.505667] (-) TimerEvent: {}
+[87.605966] (-) TimerEvent: {}
+[87.706140] (-) TimerEvent: {}
+[87.806420] (-) TimerEvent: {}
+[87.906608] (-) TimerEvent: {}
+[88.006905] (-) TimerEvent: {}
+[88.107074] (-) TimerEvent: {}
+[88.207273] (-) TimerEvent: {}
+[88.307419] (-) TimerEvent: {}
+[88.407687] (-) TimerEvent: {}
+[88.507885] (-) TimerEvent: {}
+[88.608045] (-) TimerEvent: {}
+[88.708333] (-) TimerEvent: {}
+[88.808517] (-) TimerEvent: {}
+[88.908699] (-) TimerEvent: {}
+[89.008965] (-) TimerEvent: {}
+[89.109138] (-) TimerEvent: {}
+[89.209328] (-) TimerEvent: {}
+[89.309484] (-) TimerEvent: {}
+[89.409665] (-) TimerEvent: {}
+[89.509812] (-) TimerEvent: {}
+[89.610059] (-) TimerEvent: {}
+[89.710327] (-) TimerEvent: {}
+[89.810479] (-) TimerEvent: {}
+[89.910657] (-) TimerEvent: {}
+[90.010837] (-) TimerEvent: {}
+[90.042590] (phasespace_msgs_ros2) CommandEnded: {'returncode': 0}
+[90.043466] (phasespace_msgs_ros2) JobProgress: {'identifier': 'phasespace_msgs_ros2', 'progress': 'install'}
+[90.049220] (phasespace_msgs_ros2) Command: {'cmd': ['/usr/bin/cmake', '--install', '/home/anshul/Research/PostDoc/mocap/build/phasespace_msgs_ros2'], 'cwd': '/home/anshul/Research/PostDoc/mocap/build/phasespace_msgs_ros2', 'env': OrderedDict([('GJS_DEBUG_TOPICS', 'JS ERROR;JS LOG'), ('LESSOPEN', '| /usr/bin/lesspipe %s'), ('VSCODE_CWD', '/home/anshul'), ('VSCODE_ESM_ENTRYPOINT', 'vs/workbench/api/node/extensionHostProcess'), ('CONDA_PROMPT_MODIFIER', '(base)'), ('CODEX_CI', '1'), ('USER', 'anshul'), ('CODEX_INTERNAL_ORIGINATOR_OVERRIDE', 'codex_vscode'), ('VSCODE_NLS_CONFIG', '{"userLocale":"en-us","osLocale":"en-us","resolvedLanguage":"en","defaultMessagesFile":"/usr/share/code/resources/app/out/nls.messages.json","locale":"en-us","availableLanguages":{}}'), ('VSCODE_HANDLES_UNCAUGHT_ERRORS', 'true'), ('XDG_SESSION_TYPE', 'x11'), ('DEBUG', 'release'), ('SHLVL', '0'), ('LD_LIBRARY_PATH', '/home/anshul/casadi/build/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/home/anshul'), ('CHROME_DESKTOP', 'code.desktop'), ('CONDA_SHLVL', '1'), ('DESKTOP_SESSION', 'ubuntu'), ('VSCODE_IPC_HOOK', '/run/user/1000/vscode-0b922b41-1.99-main.sock'), ('GIO_LAUNCHED_DESKTOP_FILE', '/usr/share/applications/code.desktop'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('PAGER', 'cat'), ('MANAGERPID', '1996'), ('LC_CTYPE', 'C.UTF-8'), ('SYSTEMD_EXEC_PID', '2292'), ('NO_COLOR', '1'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLORTERM', ''), ('GIO_LAUNCHED_DESKTOP_FILE_PID', '13935'), ('_colcon_cd_root', '/opt/ros/humble/'), ('VSCODE_CRASH_REPORTER_PROCESS_TYPE', 'extensionHost'), ('MANDATORY_PATH', '/usr/share/gconf/ubuntu.mandatory.path'), ('VSCODE_L10N_BUNDLE_LOCATION', ''), ('ROS_DISTRO', 'humble'), ('GTK_IM_MODULE', 'ibus'), ('LOGNAME', 'anshul'), ('JOURNAL_STREAM', '8:17202'), ('_', '/usr/bin/env'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('DEFAULTS_PATH', '/usr/share/gconf/ubuntu.default.path'), ('RUST_LOG', 'warn'), ('USERNAME', 'anshul'), ('TERM', 'dumb'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('ROS_LOCALHOST_ONLY', '0'), ('WINDOWPATH', '2'), ('PATH', '/usr/bin:/bin:/usr/sbin:/sbin:/opt/ros/humble/bin'), ('SESSION_MANAGER', 'local/anshul-Linux:@/tmp/.ICE-unix/2268,unix/anshul-Linux:/tmp/.ICE-unix/2268'), ('INVOCATION_ID', '73cf8843a98c4ec9ad96ba6ba4f95413'), ('XDG_MENU_PREFIX', 'gnome-'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('GDK_BACKEND', 'x11'), ('DISPLAY', ':1'), ('CODEX_SANDBOX_NETWORK_DISABLED', '1'), ('LANG', 'en_US.UTF-8'), ('XDG_CURRENT_DESKTOP', 'Unity'), ('XMODIFIERS', '@im=ibus'), ('GH_PAGER', 'cat'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/1000/gdm/Xauthority'), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('GSETTINGS_SCHEMA_DIR', '/home/anshul/miniconda3/share/glib-2.0/schemas'), ('AMENT_PREFIX_PATH', '/opt/ros/humble'), ('CONDA_PYTHON_EXE', '/home/anshul/miniconda3/bin/python'), ('ORIGINAL_XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('SHELL', '/bin/bash'), ('QT_ACCESSIBILITY', '1'), ('ELECTRON_RUN_AS_NODE', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('CONDA_DEFAULT_ENV', 'base'), ('CODEX_THREAD_ID', '019da236-c726-7413-b965-d416169df785'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('GJS_DEBUG_OUTPUT', 'stderr'), ('GIT_PAGER', 'cat'), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/anshul/Research/PostDoc/mocap/build/phasespace_msgs_ros2'), ('LC_ALL', 'en_US.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('CONDA_EXE', '/home/anshul/miniconda3/bin/conda'), ('VSCODE_CODE_CACHE_PATH', '/home/anshul/.config/Code/CachedData/17baf841131aa23349f217ca7c570c76ee87b957'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('CONDA_PREFIX', '/home/anshul/miniconda3'), ('COLCON', '1'), ('VSCODE_PID', '13935'), ('CMAKE_PREFIX_PATH', '/opt/ros/humble')]), 'shell': False}
+[90.055013] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[90.055236] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/ament_index/resource_index/rosidl_interfaces/phasespace_msgs_ros2\n'}
+[90.055269] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2\n'}
+[90.055295] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg\n'}
+[90.055320] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/cameras.h\n'}
+[90.055363] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/marker.h\n'}
+[90.055387] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/rigid.h\n'}
+[90.055411] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/rosidl_generator_c__visibility_control.h\n'}
+[90.055437] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/camera.h\n'}
+[90.055544] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail\n'}
+[90.055571] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/marker__functions.h\n'}
+[90.055596] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/rigid__type_support.h\n'}
+[90.055621] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/cameras__struct.h\n'}
+[90.055827] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/rigids__type_support.h\n'}
+[90.055851] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/rigids__functions.c\n'}
+[90.055900] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/rigids__struct.h\n'}
+[90.055926] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/camera__functions.c\n'}
+[90.055951] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/marker__type_support.h\n'}
+[90.055975] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/markers__functions.h\n'}
+[90.055999] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/rigids__functions.h\n'}
+[90.056025] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/cameras__functions.c\n'}
+[90.056070] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/markers__type_support.h\n'}
+[90.056095] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/cameras__functions.h\n'}
+[90.056121] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/camera__functions.h\n'}
+[90.056437] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/camera__type_support.h\n'}
+[90.056462] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/camera__struct.h\n'}
+[90.056485] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/cameras__type_support.h\n'}
+[90.056508] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/rigid__struct.h\n'}
+[90.056531] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/rigid__functions.h\n'}
+[90.056554] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/markers__struct.h\n'}
+[90.056577] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/markers__functions.c\n'}
+[90.056600] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/marker__functions.c\n'}
+[90.056623] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/rigid__functions.c\n'}
+[90.056645] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/marker__struct.h\n'}
+[90.056779] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/markers.h\n'}
+[90.056801] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/rigids.h\n'}
+[90.056824] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/environment/library_path.sh\n'}
+[90.056848] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Installing: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/environment/library_path.dsv\n'}
+[90.056871] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/lib/libphasespace_msgs_ros2__rosidl_generator_c.so\n'}
+[90.056920] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2\n'}
+[90.056943] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg\n'}
+[90.056969] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail\n'}
+[90.056994] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/cameras__rosidl_typesupport_fastrtps_c.h\n'}
+[90.057018] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/rigids__rosidl_typesupport_fastrtps_c.h\n'}
+[90.057044] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/camera__rosidl_typesupport_fastrtps_c.h\n'}
+[90.057091] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/marker__rosidl_typesupport_fastrtps_c.h\n'}
+[90.057114] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/markers__rosidl_typesupport_fastrtps_c.h\n'}
+[90.057140] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/rigid__rosidl_typesupport_fastrtps_c.h\n'}
+[90.057165] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/rosidl_typesupport_fastrtps_c__visibility_control.h\n'}
+[90.057201] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/lib/libphasespace_msgs_ros2__rosidl_typesupport_fastrtps_c.so\n'}
+[90.057254] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2\n'}
+[90.057281] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg\n'}
+[90.057305] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail\n'}
+[90.057367] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/camera__rosidl_typesupport_introspection_c.h\n'}
+[90.057391] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/markers__type_support.c\n'}
+[90.057415] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/rigid__rosidl_typesupport_introspection_c.h\n'}
+[90.057439] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/marker__type_support.c\n'}
+[90.057462] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/rigids__type_support.c\n'}
+[90.057552] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/camera__type_support.c\n'}
+[90.057575] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/rigids__rosidl_typesupport_introspection_c.h\n'}
+[90.057596] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/cameras__rosidl_typesupport_introspection_c.h\n'}
+[90.057617] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/rigid__type_support.c\n'}
+[90.057637] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/markers__rosidl_typesupport_introspection_c.h\n'}
+[90.057658] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/marker__rosidl_typesupport_introspection_c.h\n'}
+[90.057679] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/cameras__type_support.c\n'}
+[90.057699] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/rosidl_typesupport_introspection_c__visibility_control.h\n'}
+[90.057720] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/lib/libphasespace_msgs_ros2__rosidl_typesupport_introspection_c.so\n'}
+[90.057741] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/lib/libphasespace_msgs_ros2__rosidl_typesupport_c.so\n'}
+[90.057776] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2\n'}
+[90.057796] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg\n'}
+[90.057816] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/markers.hpp\n'}
+[90.057838] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/camera.hpp\n'}
+[90.057858] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/rosidl_generator_cpp__visibility_control.hpp\n'}
+[90.057881] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail\n'}
+[90.057902] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/camera__builder.hpp\n'}
+[90.057925] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/rigids__builder.hpp\n'}
+[90.057950] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/markers__struct.hpp\n'}
+[90.057976] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/marker__struct.hpp\n'}
+[90.058000] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/cameras__struct.hpp\n'}
+[90.058023] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/camera__type_support.hpp\n'}
+[90.058043] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/marker__type_support.hpp\n'}
+[90.058063] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/rigid__builder.hpp\n'}
+[90.058086] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/marker__traits.hpp\n'}
+[90.058107] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/rigid__traits.hpp\n'}
+[90.058127] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/rigids__traits.hpp\n'}
+[90.058147] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/rigid__struct.hpp\n'}
+[90.058168] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/cameras__type_support.hpp\n'}
+[90.058188] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/cameras__traits.hpp\n'}
+[90.058208] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/cameras__builder.hpp\n'}
+[90.058230] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/rigid__type_support.hpp\n'}
+[90.058250] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/rigids__struct.hpp\n'}
+[90.058270] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/markers__builder.hpp\n'}
+[90.058290] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/marker__builder.hpp\n'}
+[90.058311] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/camera__struct.hpp\n'}
+[90.058331] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/markers__type_support.hpp\n'}
+[90.058351] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/camera__traits.hpp\n'}
+[90.058371] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/rigids__type_support.hpp\n'}
+[90.058391] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/markers__traits.hpp\n'}
+[90.058411] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/rigids.hpp\n'}
+[90.058431] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/rigid.hpp\n'}
+[90.058451] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/cameras.hpp\n'}
+[90.058474] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/marker.hpp\n'}
+[90.058494] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2\n'}
+[90.058514] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg\n'}
+[90.058534] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h\n'}
+[90.058554] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail\n'}
+[90.058575] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/cameras__rosidl_typesupport_fastrtps_cpp.hpp\n'}
+[90.058596] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/dds_fastrtps\n'}
+[90.058618] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/camera__rosidl_typesupport_fastrtps_cpp.hpp\n'}
+[90.058638] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/rigid__rosidl_typesupport_fastrtps_cpp.hpp\n'}
+[90.058659] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/markers__rosidl_typesupport_fastrtps_cpp.hpp\n'}
+[90.058681] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/marker__rosidl_typesupport_fastrtps_cpp.hpp\n'}
+[90.058701] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/rigids__rosidl_typesupport_fastrtps_cpp.hpp\n'}
+[90.058722] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/lib/libphasespace_msgs_ros2__rosidl_typesupport_fastrtps_cpp.so\n'}
+[90.058742] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2\n'}
+[90.058763] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg\n'}
+[90.058783] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail\n'}
+[90.058803] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/camera__rosidl_typesupport_introspection_cpp.hpp\n'}
+[90.058824] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/markers__rosidl_typesupport_introspection_cpp.hpp\n'}
+[90.058844] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/rigids__rosidl_typesupport_introspection_cpp.hpp\n'}
+[90.058864] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/camera__type_support.cpp\n'}
+[90.058886] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/rigid__rosidl_typesupport_introspection_cpp.hpp\n'}
+[90.058909] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/marker__type_support.cpp\n'}
+[90.058931] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/rigid__type_support.cpp\n'}
+[90.058953] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/rigids__type_support.cpp\n'}
+[90.058976] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/marker__rosidl_typesupport_introspection_cpp.hpp\n'}
+[90.059000] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/markers__type_support.cpp\n'}
+[90.059021] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/cameras__rosidl_typesupport_introspection_cpp.hpp\n'}
+[90.059042] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/include/phasespace_msgs_ros2/phasespace_msgs_ros2/msg/detail/cameras__type_support.cpp\n'}
+[90.059063] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/lib/libphasespace_msgs_ros2__rosidl_typesupport_introspection_cpp.so\n'}
+[90.059084] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/lib/libphasespace_msgs_ros2__rosidl_typesupport_cpp.so\n'}
+[90.059105] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/environment/pythonpath.sh\n'}
+[90.059124] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Installing: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/environment/pythonpath.dsv\n'}
+[90.059144] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2-0.0.0-py3.10.egg-info\n'}
+[90.059165] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Installing: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2-0.0.0-py3.10.egg-info/top_level.txt\n'}
+[90.059186] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Installing: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2-0.0.0-py3.10.egg-info/dependency_links.txt\n'}
+[90.059206] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Installing: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2-0.0.0-py3.10.egg-info/SOURCES.txt\n'}
+[90.059226] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Installing: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2-0.0.0-py3.10.egg-info/PKG-INFO\n'}
+[90.059246] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2\n'}
+[90.059266] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2/_phasespace_msgs_ros2_s.ep.rosidl_typesupport_c.c\n'}
+[90.059287] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2/msg\n'}
+[90.059307] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2/msg/_markers_s.c\n'}
+[90.059328] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2/msg/_marker.py\n'}
+[90.059348] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2/msg/_marker_s.c\n'}
+[90.059370] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2/msg/_camera_s.c\n'}
+[90.059389] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2/msg/_rigids_s.c\n'}
+[90.059411] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2/msg/_rigid.py\n'}
+[90.059432] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2/msg/__init__.py\n'}
+[90.059453] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2/msg/_markers.py\n'}
+[90.059474] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2/msg/_cameras_s.c\n'}
+[90.059494] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2/msg/_rigids.py\n'}
+[90.059514] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2/msg/_rigid_s.c\n'}
+[90.059537] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2/msg/_cameras.py\n'}
+[90.059557] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2/msg/_camera.py\n'}
+[90.059579] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2/libphasespace_msgs_ros2__rosidl_generator_py.so\n'}
+[90.059599] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2/phasespace_msgs_ros2_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so\n'}
+[90.059622] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2/_phasespace_msgs_ros2_s.ep.rosidl_typesupport_introspection_c.c\n'}
+[90.059644] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Installing: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2/__init__.py\n'}
+[90.059666] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2/phasespace_msgs_ros2_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so\n'}
+[90.059688] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2/phasespace_msgs_ros2_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so\n'}
+[90.059708] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2/_phasespace_msgs_ros2_s.ep.rosidl_typesupport_fastrtps_c.c\n'}
+[90.078796] (phasespace_msgs_ros2) StdoutLine: {'line': b"Listing '/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2'...\n"}
+[90.078902] (phasespace_msgs_ros2) StdoutLine: {'line': b"Compiling '/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2/__init__.py'...\n"}
+[90.078935] (phasespace_msgs_ros2) StdoutLine: {'line': b"Listing '/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2/msg'...\n"}
+[90.081682] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2/phasespace_msgs_ros2_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so\n'}
+[90.081769] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2/phasespace_msgs_ros2_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so\n'}
+[90.081928] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages/phasespace_msgs_ros2/phasespace_msgs_ros2_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so\n'}
+[90.081999] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/lib/libphasespace_msgs_ros2__rosidl_generator_py.so\n'}
+[90.082224] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/msg/Camera.idl\n'}
+[90.082295] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/msg/Cameras.idl\n'}
+[90.082326] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/msg/Marker.idl\n'}
+[90.082355] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/msg/Markers.idl\n'}
+[90.082382] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/msg/Rigid.idl\n'}
+[90.082409] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/msg/Rigids.idl\n'}
+[90.082435] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/msg/Camera.msg\n'}
+[90.082460] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/msg/Cameras.msg\n'}
+[90.082485] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/msg/Marker.msg\n'}
+[90.082512] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/msg/Markers.msg\n'}
+[90.082644] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/msg/Rigid.msg\n'}
+[90.082700] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/msg/Rigids.msg\n'}
+[90.082727] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/ament_index/resource_index/package_run_dependencies/phasespace_msgs_ros2\n'}
+[90.082755] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/ament_index/resource_index/parent_prefix_path/phasespace_msgs_ros2\n'}
+[90.082824] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/environment/ament_prefix_path.sh\n'}
+[90.082849] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Installing: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/environment/ament_prefix_path.dsv\n'}
+[90.082875] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/environment/path.sh\n'}
+[90.082910] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Installing: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/environment/path.dsv\n'}
+[90.082937] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/local_setup.bash\n'}
+[90.082963] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/local_setup.sh\n'}
+[90.082989] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/local_setup.zsh\n'}
+[90.083095] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Installing: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/local_setup.dsv\n'}
+[90.083123] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Installing: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/package.dsv\n'}
+[90.083148] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/ament_index/resource_index/packages/phasespace_msgs_ros2\n'}
+[90.083175] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/cmake/export_phasespace_msgs_ros2__rosidl_generator_cExport.cmake\n'}
+[90.083201] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/cmake/export_phasespace_msgs_ros2__rosidl_generator_cExport-noconfig.cmake\n'}
+[90.083226] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/cmake/export_phasespace_msgs_ros2__rosidl_typesupport_fastrtps_cExport.cmake\n'}
+[90.083251] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/cmake/export_phasespace_msgs_ros2__rosidl_typesupport_fastrtps_cExport-noconfig.cmake\n'}
+[90.083277] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/cmake/phasespace_msgs_ros2__rosidl_typesupport_introspection_cExport.cmake\n'}
+[90.083303] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/cmake/phasespace_msgs_ros2__rosidl_typesupport_introspection_cExport-noconfig.cmake\n'}
+[90.083328] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/cmake/phasespace_msgs_ros2__rosidl_typesupport_cExport.cmake\n'}
+[90.083354] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/cmake/phasespace_msgs_ros2__rosidl_typesupport_cExport-noconfig.cmake\n'}
+[90.083379] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/cmake/export_phasespace_msgs_ros2__rosidl_generator_cppExport.cmake\n'}
+[90.083443] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/cmake/export_phasespace_msgs_ros2__rosidl_typesupport_fastrtps_cppExport.cmake\n'}
+[90.083466] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/cmake/export_phasespace_msgs_ros2__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake\n'}
+[90.083490] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/cmake/phasespace_msgs_ros2__rosidl_typesupport_introspection_cppExport.cmake\n'}
+[90.083517] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/cmake/phasespace_msgs_ros2__rosidl_typesupport_introspection_cppExport-noconfig.cmake\n'}
+[90.083539] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/cmake/phasespace_msgs_ros2__rosidl_typesupport_cppExport.cmake\n'}
+[90.083561] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/cmake/phasespace_msgs_ros2__rosidl_typesupport_cppExport-noconfig.cmake\n'}
+[90.083584] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/cmake/export_phasespace_msgs_ros2__rosidl_generator_pyExport.cmake\n'}
+[90.083607] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/cmake/export_phasespace_msgs_ros2__rosidl_generator_pyExport-noconfig.cmake\n'}
+[90.083628] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/cmake/rosidl_cmake-extras.cmake\n'}
+[90.083650] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/cmake/ament_cmake_export_dependencies-extras.cmake\n'}
+[90.083672] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/cmake/ament_cmake_export_include_directories-extras.cmake\n'}
+[90.083694] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/cmake/ament_cmake_export_libraries-extras.cmake\n'}
+[90.083716] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/cmake/ament_cmake_export_targets-extras.cmake\n'}
+[90.083738] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake\n'}
+[90.083761] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake\n'}
+[90.083783] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/cmake/phasespace_msgs_ros2Config.cmake\n'}
+[90.083805] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/cmake/phasespace_msgs_ros2Config-version.cmake\n'}
+[90.083827] (phasespace_msgs_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/package.xml\n'}
+[90.111012] (-) TimerEvent: {}
+[90.211252] (-) TimerEvent: {}
+[90.311427] (-) TimerEvent: {}
+[90.411694] (-) TimerEvent: {}
+[90.511961] (-) TimerEvent: {}
+[90.612228] (-) TimerEvent: {}
+[90.712463] (-) TimerEvent: {}
+[90.812645] (-) TimerEvent: {}
+[90.912926] (-) TimerEvent: {}
+[91.013187] (-) TimerEvent: {}
+[91.113481] (-) TimerEvent: {}
+[91.213755] (-) TimerEvent: {}
+[91.314030] (-) TimerEvent: {}
+[91.414203] (-) TimerEvent: {}
+[91.514515] (-) TimerEvent: {}
+[91.614720] (-) TimerEvent: {}
+[91.714976] (-) TimerEvent: {}
+[91.815125] (-) TimerEvent: {}
+[91.915276] (-) TimerEvent: {}
+[92.015489] (-) TimerEvent: {}
+[92.115748] (-) TimerEvent: {}
+[92.216028] (-) TimerEvent: {}
+[92.316178] (-) TimerEvent: {}
+[92.416430] (-) TimerEvent: {}
+[92.516707] (-) TimerEvent: {}
+[92.617001] (-) TimerEvent: {}
+[92.717169] (-) TimerEvent: {}
+[92.817439] (-) TimerEvent: {}
+[92.917642] (-) TimerEvent: {}
+[93.017819] (-) TimerEvent: {}
+[93.118054] (-) TimerEvent: {}
+[93.218331] (-) TimerEvent: {}
+[93.318521] (-) TimerEvent: {}
+[93.418669] (-) TimerEvent: {}
+[93.518934] (-) TimerEvent: {}
+[93.619336] (-) TimerEvent: {}
+[93.719537] (-) TimerEvent: {}
+[93.819797] (-) TimerEvent: {}
+[93.919925] (-) TimerEvent: {}
+[94.020088] (-) TimerEvent: {}
+[94.120306] (-) TimerEvent: {}
+[94.220576] (-) TimerEvent: {}
+[94.320724] (-) TimerEvent: {}
+[94.420976] (-) TimerEvent: {}
+[94.521149] (-) TimerEvent: {}
+[94.621367] (-) TimerEvent: {}
+[94.721591] (-) TimerEvent: {}
+[94.821869] (-) TimerEvent: {}
+[94.922163] (-) TimerEvent: {}
+[95.022357] (-) TimerEvent: {}
+[95.122650] (-) TimerEvent: {}
+[95.222938] (-) TimerEvent: {}
+[95.323140] (-) TimerEvent: {}
+[95.423335] (-) TimerEvent: {}
+[95.523604] (-) TimerEvent: {}
+[95.623873] (-) TimerEvent: {}
+[95.724148] (-) TimerEvent: {}
+[95.824330] (-) TimerEvent: {}
+[95.924516] (-) TimerEvent: {}
+[96.024848] (-) TimerEvent: {}
+[96.125014] (-) TimerEvent: {}
+[96.225206] (-) TimerEvent: {}
+[96.325464] (-) TimerEvent: {}
+[96.425751] (-) TimerEvent: {}
+[96.526015] (-) TimerEvent: {}
+[96.626300] (-) TimerEvent: {}
+[96.726529] (-) TimerEvent: {}
+[96.826800] (-) TimerEvent: {}
+[96.927054] (-) TimerEvent: {}
+[97.027328] (-) TimerEvent: {}
+[97.127626] (-) TimerEvent: {}
+[97.227937] (-) TimerEvent: {}
+[97.328113] (-) TimerEvent: {}
+[97.428320] (-) TimerEvent: {}
+[97.528532] (-) TimerEvent: {}
+[97.628865] (-) TimerEvent: {}
+[97.729093] (-) TimerEvent: {}
+[97.829259] (-) TimerEvent: {}
+[97.929472] (-) TimerEvent: {}
+[98.029713] (-) TimerEvent: {}
+[98.129988] (-) TimerEvent: {}
+[98.230143] (-) TimerEvent: {}
+[98.330328] (-) TimerEvent: {}
+[98.430605] (-) TimerEvent: {}
+[98.530869] (-) TimerEvent: {}
+[98.631129] (-) TimerEvent: {}
+[98.731327] (-) TimerEvent: {}
+[98.831607] (-) TimerEvent: {}
+[98.931911] (-) TimerEvent: {}
+[99.032086] (-) TimerEvent: {}
+[99.132266] (-) TimerEvent: {}
+[99.232435] (-) TimerEvent: {}
+[99.332618] (-) TimerEvent: {}
+[99.432777] (-) TimerEvent: {}
+[99.532946] (-) TimerEvent: {}
+[99.633208] (-) TimerEvent: {}
+[99.733426] (-) TimerEvent: {}
+[99.833639] (-) TimerEvent: {}
+[99.933903] (-) TimerEvent: {}
+[100.034136] (-) TimerEvent: {}
+[100.134421] (-) TimerEvent: {}
+[100.234635] (-) TimerEvent: {}
+[100.334870] (-) TimerEvent: {}
+[100.435182] (-) TimerEvent: {}
+[100.535364] (-) TimerEvent: {}
+[100.635593] (-) TimerEvent: {}
+[100.735788] (-) TimerEvent: {}
+[100.836095] (-) TimerEvent: {}
+[100.937349] (-) TimerEvent: {}
+[101.037577] (-) TimerEvent: {}
+[101.137757] (-) TimerEvent: {}
+[101.237934] (-) TimerEvent: {}
+[101.338195] (-) TimerEvent: {}
+[101.438357] (-) TimerEvent: {}
+[101.538520] (-) TimerEvent: {}
+[101.638712] (-) TimerEvent: {}
+[101.738961] (-) TimerEvent: {}
+[101.839242] (-) TimerEvent: {}
+[101.939422] (-) TimerEvent: {}
+[102.039638] (-) TimerEvent: {}
+[102.139847] (-) TimerEvent: {}
+[102.240129] (-) TimerEvent: {}
+[102.340278] (-) TimerEvent: {}
+[102.440446] (-) TimerEvent: {}
+[102.540745] (-) TimerEvent: {}
+[102.641040] (-) TimerEvent: {}
+[102.741324] (-) TimerEvent: {}
+[102.841629] (-) TimerEvent: {}
+[102.941840] (-) TimerEvent: {}
+[103.041998] (-) TimerEvent: {}
+[103.142259] (-) TimerEvent: {}
+[103.242448] (-) TimerEvent: {}
+[103.342649] (-) TimerEvent: {}
+[103.442958] (-) TimerEvent: {}
+[103.543136] (-) TimerEvent: {}
+[103.643305] (-) TimerEvent: {}
+[103.743506] (-) TimerEvent: {}
+[103.843755] (-) TimerEvent: {}
+[103.944053] (-) TimerEvent: {}
+[104.044222] (-) TimerEvent: {}
+[104.144429] (-) TimerEvent: {}
+[104.244726] (-) TimerEvent: {}
+[104.345009] (-) TimerEvent: {}
+[104.445284] (-) TimerEvent: {}
+[104.545451] (-) TimerEvent: {}
+[104.645613] (-) TimerEvent: {}
+[104.745776] (-) TimerEvent: {}
+[104.845980] (-) TimerEvent: {}
+[104.946131] (-) TimerEvent: {}
+[105.046383] (-) TimerEvent: {}
+[105.146607] (-) TimerEvent: {}
+[105.246813] (-) TimerEvent: {}
+[105.346978] (-) TimerEvent: {}
+[105.447171] (-) TimerEvent: {}
+[105.547392] (-) TimerEvent: {}
+[105.647639] (-) TimerEvent: {}
+[105.747800] (-) TimerEvent: {}
+[105.848006] (-) TimerEvent: {}
+[105.948171] (-) TimerEvent: {}
+[106.048339] (-) TimerEvent: {}
+[106.148500] (-) TimerEvent: {}
+[106.248663] (-) TimerEvent: {}
+[106.348853] (-) TimerEvent: {}
+[106.449066] (-) TimerEvent: {}
+[106.549297] (-) TimerEvent: {}
+[106.649413] (-) TimerEvent: {}
+[106.749595] (-) TimerEvent: {}
+[106.849807] (-) TimerEvent: {}
+[106.949987] (-) TimerEvent: {}
+[107.050191] (-) TimerEvent: {}
+[107.150428] (-) TimerEvent: {}
+[107.250589] (-) TimerEvent: {}
+[107.350746] (-) TimerEvent: {}
+[107.450976] (-) TimerEvent: {}
+[107.551157] (-) TimerEvent: {}
+[107.651390] (-) TimerEvent: {}
+[107.751614] (-) TimerEvent: {}
+[107.851811] (-) TimerEvent: {}
+[107.952008] (-) TimerEvent: {}
+[108.052186] (-) TimerEvent: {}
+[108.152455] (-) TimerEvent: {}
+[108.252641] (-) TimerEvent: {}
+[108.352939] (-) TimerEvent: {}
+[108.453107] (-) TimerEvent: {}
+[108.553264] (-) TimerEvent: {}
+[108.653489] (-) TimerEvent: {}
+[108.753704] (-) TimerEvent: {}
+[108.853864] (-) TimerEvent: {}
+[108.954037] (-) TimerEvent: {}
+[109.054176] (-) TimerEvent: {}
+[109.154411] (-) TimerEvent: {}
+[109.254634] (-) TimerEvent: {}
+[109.354782] (-) TimerEvent: {}
+[109.454978] (-) TimerEvent: {}
+[109.555154] (-) TimerEvent: {}
+[109.655424] (-) TimerEvent: {}
+[109.755591] (-) TimerEvent: {}
+[109.855812] (-) TimerEvent: {}
+[109.956076] (-) TimerEvent: {}
+[110.056248] (-) TimerEvent: {}
+[110.156529] (-) TimerEvent: {}
+[110.256736] (-) TimerEvent: {}
+[110.356906] (-) TimerEvent: {}
+[110.457089] (-) TimerEvent: {}
+[110.557281] (-) TimerEvent: {}
+[110.657587] (-) TimerEvent: {}
+[110.757754] (-) TimerEvent: {}
+[110.857941] (-) TimerEvent: {}
+[110.958106] (-) TimerEvent: {}
+[111.058303] (-) TimerEvent: {}
+[111.158472] (-) TimerEvent: {}
+[111.258631] (-) TimerEvent: {}
+[111.358792] (-) TimerEvent: {}
+[111.458997] (-) TimerEvent: {}
+[111.559236] (-) TimerEvent: {}
+[111.659557] (-) TimerEvent: {}
+[111.759704] (-) TimerEvent: {}
+[111.859845] (-) TimerEvent: {}
+[111.960021] (-) TimerEvent: {}
+[112.060211] (-) TimerEvent: {}
+[112.160402] (-) TimerEvent: {}
+[112.260625] (-) TimerEvent: {}
+[112.360772] (-) TimerEvent: {}
+[112.460973] (-) TimerEvent: {}
+[112.561168] (-) TimerEvent: {}
+[112.661378] (-) TimerEvent: {}
+[112.761559] (-) TimerEvent: {}
+[112.861851] (-) TimerEvent: {}
+[112.962141] (-) TimerEvent: {}
+[113.062369] (-) TimerEvent: {}
+[113.162647] (-) TimerEvent: {}
+[113.262953] (-) TimerEvent: {}
+[113.363368] (-) TimerEvent: {}
+[113.463674] (-) TimerEvent: {}
+[113.563863] (-) TimerEvent: {}
+[113.664016] (-) TimerEvent: {}
+[113.764300] (-) TimerEvent: {}
+[113.864518] (-) TimerEvent: {}
+[113.964779] (-) TimerEvent: {}
+[114.065065] (-) TimerEvent: {}
+[114.165266] (-) TimerEvent: {}
+[114.265557] (-) TimerEvent: {}
+[114.365742] (-) TimerEvent: {}
+[114.465929] (-) TimerEvent: {}
+[114.566076] (-) TimerEvent: {}
+[114.666328] (-) TimerEvent: {}
+[114.766527] (-) TimerEvent: {}
+[114.866701] (-) TimerEvent: {}
+[114.966968] (-) TimerEvent: {}
+[115.067236] (-) TimerEvent: {}
+[115.167382] (-) TimerEvent: {}
+[115.267676] (-) TimerEvent: {}
+[115.367985] (-) TimerEvent: {}
+[115.468245] (-) TimerEvent: {}
+[115.568524] (-) TimerEvent: {}
+[115.668717] (-) TimerEvent: {}
+[115.768911] (-) TimerEvent: {}
+[115.869072] (-) TimerEvent: {}
+[115.969363] (-) TimerEvent: {}
+[116.069594] (-) TimerEvent: {}
+[116.169776] (-) TimerEvent: {}
+[116.269979] (-) TimerEvent: {}
+[116.370256] (-) TimerEvent: {}
+[116.470534] (-) TimerEvent: {}
+[116.570799] (-) TimerEvent: {}
+[116.671122] (-) TimerEvent: {}
+[116.771317] (-) TimerEvent: {}
+[116.871604] (-) TimerEvent: {}
+[116.971895] (-) TimerEvent: {}
+[117.072065] (-) TimerEvent: {}
+[117.172234] (-) TimerEvent: {}
+[117.272460] (-) TimerEvent: {}
+[117.372689] (-) TimerEvent: {}
+[117.472908] (-) TimerEvent: {}
+[117.573059] (-) TimerEvent: {}
+[117.673209] (-) TimerEvent: {}
+[117.773397] (-) TimerEvent: {}
+[117.873557] (-) TimerEvent: {}
+[117.973774] (-) TimerEvent: {}
+[118.073967] (-) TimerEvent: {}
+[118.174240] (-) TimerEvent: {}
+[118.274552] (-) TimerEvent: {}
+[118.374837] (-) TimerEvent: {}
+[118.475109] (-) TimerEvent: {}
+[118.575358] (-) TimerEvent: {}
+[118.675649] (-) TimerEvent: {}
+[118.775929] (-) TimerEvent: {}
+[118.876104] (-) TimerEvent: {}
+[118.976380] (-) TimerEvent: {}
+[119.076612] (-) TimerEvent: {}
+[119.176900] (-) TimerEvent: {}
+[119.277168] (-) TimerEvent: {}
+[119.377455] (-) TimerEvent: {}
+[119.477750] (-) TimerEvent: {}
+[119.578021] (-) TimerEvent: {}
+[119.678174] (-) TimerEvent: {}
+[119.778371] (-) TimerEvent: {}
+[119.878569] (-) TimerEvent: {}
+[119.978861] (-) TimerEvent: {}
+[120.047545] (phasespace_msgs_ros2) CommandEnded: {'returncode': 0}
+[120.057394] (phasespace_msgs_ros2) JobEnded: {'identifier': 'phasespace_msgs_ros2', 'rc': 0}
+[120.057741] (phasespace_bringup_ros2) JobStarted: {'identifier': 'phasespace_bringup_ros2'}
+[120.062470] (phasespace_bringup_ros2) JobProgress: {'identifier': 'phasespace_bringup_ros2', 'progress': 'cmake'}
+[120.062684] (phasespace_bringup_ros2) Command: {'cmd': ['/usr/bin/cmake', '/home/anshul/Research/PostDoc/mocap/phasespace-mocap-ros2/phasespace_bringup_ros2', '-DPython3_EXECUTABLE=/usr/bin/python3', '-DCMAKE_INSTALL_PREFIX=/home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2'], 'cwd': '/home/anshul/Research/PostDoc/mocap/build/phasespace_bringup_ros2', 'env': OrderedDict([('GJS_DEBUG_TOPICS', 'JS ERROR;JS LOG'), ('LESSOPEN', '| /usr/bin/lesspipe %s'), ('VSCODE_CWD', '/home/anshul'), ('VSCODE_ESM_ENTRYPOINT', 'vs/workbench/api/node/extensionHostProcess'), ('CONDA_PROMPT_MODIFIER', '(base)'), ('CODEX_CI', '1'), ('USER', 'anshul'), ('CODEX_INTERNAL_ORIGINATOR_OVERRIDE', 'codex_vscode'), ('VSCODE_NLS_CONFIG', '{"userLocale":"en-us","osLocale":"en-us","resolvedLanguage":"en","defaultMessagesFile":"/usr/share/code/resources/app/out/nls.messages.json","locale":"en-us","availableLanguages":{}}'), ('VSCODE_HANDLES_UNCAUGHT_ERRORS', 'true'), ('XDG_SESSION_TYPE', 'x11'), ('DEBUG', 'release'), ('SHLVL', '0'), ('LD_LIBRARY_PATH', '/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/lib:/home/anshul/casadi/build/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/home/anshul'), ('CHROME_DESKTOP', 'code.desktop'), ('CONDA_SHLVL', '1'), ('DESKTOP_SESSION', 'ubuntu'), ('VSCODE_IPC_HOOK', '/run/user/1000/vscode-0b922b41-1.99-main.sock'), ('GIO_LAUNCHED_DESKTOP_FILE', '/usr/share/applications/code.desktop'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('PAGER', 'cat'), ('MANAGERPID', '1996'), ('LC_CTYPE', 'C.UTF-8'), ('SYSTEMD_EXEC_PID', '2292'), ('NO_COLOR', '1'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLORTERM', ''), ('GIO_LAUNCHED_DESKTOP_FILE_PID', '13935'), ('_colcon_cd_root', '/opt/ros/humble/'), ('VSCODE_CRASH_REPORTER_PROCESS_TYPE', 'extensionHost'), ('MANDATORY_PATH', '/usr/share/gconf/ubuntu.mandatory.path'), ('VSCODE_L10N_BUNDLE_LOCATION', ''), ('ROS_DISTRO', 'humble'), ('GTK_IM_MODULE', 'ibus'), ('LOGNAME', 'anshul'), ('JOURNAL_STREAM', '8:17202'), ('_', '/usr/bin/env'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('DEFAULTS_PATH', '/usr/share/gconf/ubuntu.default.path'), ('RUST_LOG', 'warn'), ('USERNAME', 'anshul'), ('TERM', 'dumb'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('ROS_LOCALHOST_ONLY', '0'), ('WINDOWPATH', '2'), ('PATH', '/usr/bin:/bin:/usr/sbin:/sbin:/opt/ros/humble/bin'), ('SESSION_MANAGER', 'local/anshul-Linux:@/tmp/.ICE-unix/2268,unix/anshul-Linux:/tmp/.ICE-unix/2268'), ('INVOCATION_ID', '73cf8843a98c4ec9ad96ba6ba4f95413'), ('XDG_MENU_PREFIX', 'gnome-'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('GDK_BACKEND', 'x11'), ('DISPLAY', ':1'), ('CODEX_SANDBOX_NETWORK_DISABLED', '1'), ('LANG', 'en_US.UTF-8'), ('XDG_CURRENT_DESKTOP', 'Unity'), ('XMODIFIERS', '@im=ibus'), ('GH_PAGER', 'cat'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/1000/gdm/Xauthority'), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('GSETTINGS_SCHEMA_DIR', '/home/anshul/miniconda3/share/glib-2.0/schemas'), ('AMENT_PREFIX_PATH', '/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2:/opt/ros/humble'), ('CONDA_PYTHON_EXE', '/home/anshul/miniconda3/bin/python'), ('ORIGINAL_XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('SHELL', '/bin/bash'), ('QT_ACCESSIBILITY', '1'), ('ELECTRON_RUN_AS_NODE', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('CONDA_DEFAULT_ENV', 'base'), ('CODEX_THREAD_ID', '019da236-c726-7413-b965-d416169df785'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('GJS_DEBUG_OUTPUT', 'stderr'), ('GIT_PAGER', 'cat'), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/anshul/Research/PostDoc/mocap/build/phasespace_bringup_ros2'), ('LC_ALL', 'en_US.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('CONDA_EXE', '/home/anshul/miniconda3/bin/conda'), ('VSCODE_CODE_CACHE_PATH', '/home/anshul/.config/Code/CachedData/17baf841131aa23349f217ca7c570c76ee87b957'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('CONDA_PREFIX', '/home/anshul/miniconda3'), ('COLCON', '1'), ('VSCODE_PID', '13935'), ('CMAKE_PREFIX_PATH', '/opt/ros/humble:/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2')]), 'shell': False}
+[120.078949] (-) TimerEvent: {}
+[120.101735] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- The C compiler identification is GNU 11.4.0\n'}
+[120.138862] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- The CXX compiler identification is GNU 11.4.0\n'}
+[120.144836] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Detecting C compiler ABI info\n'}
+[120.179079] (-) TimerEvent: {}
+[120.198300] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Detecting C compiler ABI info - done\n'}
+[120.202639] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc - skipped\n'}
+[120.202728] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Detecting C compile features\n'}
+[120.202876] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Detecting C compile features - done\n'}
+[120.204786] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info\n'}
+[120.263253] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info - done\n'}
+[120.268487] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++ - skipped\n'}
+[120.268683] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Detecting CXX compile features\n'}
+[120.268839] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Detecting CXX compile features - done\n'}
+[120.270015] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)\n'}
+[120.279176] (-) TimerEvent: {}
+[120.377631] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter \n'}
+[120.379256] (-) TimerEvent: {}
+[120.431512] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Found phasespace_msgs_ros2: 0.0.0 (/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/share/phasespace_msgs_ros2/cmake)\n'}
+[120.453745] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)\n'}
+[120.456132] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)\n'}
+[120.460483] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)\n'}
+[120.466929] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c\n'}
+[120.475378] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp\n'}
+[120.479314] (-) TimerEvent: {}
+[120.497453] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Found rclcpp: 16.0.12 (/opt/ros/humble/share/rclcpp/cmake)\n'}
+[120.516835] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)\n'}
+[120.518109] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)\n'}
+[120.575951] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  \n'}
+[120.579385] (-) TimerEvent: {}
+[120.594193] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Found FastRTPS: /opt/ros/humble/include  \n'}
+[120.622264] (phasespace_bringup_ros2) StdoutLine: {'line': b"-- Using RMW implementation 'rmw_fastrtps_cpp' as default\n"}
+[120.626337] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Looking for pthread.h\n'}
+[120.679525] (-) TimerEvent: {}
+[120.680766] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Looking for pthread.h - found\n'}
+[120.680891] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Performing Test CMAKE_HAVE_LIBC_PTHREAD\n'}
+[120.735436] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success\n'}
+[120.736071] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Found Threads: TRUE  \n'}
+[120.779643] (-) TimerEvent: {}
+[120.794600] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Configuring done\n'}
+[120.799627] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Generating done\n'}
+[120.801546] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Build files have been written to: /home/anshul/Research/PostDoc/mocap/build/phasespace_bringup_ros2\n'}
+[120.879833] (-) TimerEvent: {}
+[120.980084] (-) TimerEvent: {}
+[121.080407] (-) TimerEvent: {}
+[121.180593] (-) TimerEvent: {}
+[121.280982] (-) TimerEvent: {}
+[121.381317] (-) TimerEvent: {}
+[121.481640] (-) TimerEvent: {}
+[121.581813] (-) TimerEvent: {}
+[121.682077] (-) TimerEvent: {}
+[121.782240] (-) TimerEvent: {}
+[121.882424] (-) TimerEvent: {}
+[121.982685] (-) TimerEvent: {}
+[122.082951] (-) TimerEvent: {}
+[122.183233] (-) TimerEvent: {}
+[122.283541] (-) TimerEvent: {}
+[122.383829] (-) TimerEvent: {}
+[122.483988] (-) TimerEvent: {}
+[122.584251] (-) TimerEvent: {}
+[122.684433] (-) TimerEvent: {}
+[122.784612] (-) TimerEvent: {}
+[122.884895] (-) TimerEvent: {}
+[122.985162] (-) TimerEvent: {}
+[123.085352] (-) TimerEvent: {}
+[123.185519] (-) TimerEvent: {}
+[123.285711] (-) TimerEvent: {}
+[123.385980] (-) TimerEvent: {}
+[123.486133] (-) TimerEvent: {}
+[123.586392] (-) TimerEvent: {}
+[123.686679] (-) TimerEvent: {}
+[123.786981] (-) TimerEvent: {}
+[123.887236] (-) TimerEvent: {}
+[123.987418] (-) TimerEvent: {}
+[124.087683] (-) TimerEvent: {}
+[124.187982] (-) TimerEvent: {}
+[124.288159] (-) TimerEvent: {}
+[124.388306] (-) TimerEvent: {}
+[124.488475] (-) TimerEvent: {}
+[124.588619] (-) TimerEvent: {}
+[124.688784] (-) TimerEvent: {}
+[124.788944] (-) TimerEvent: {}
+[124.889109] (-) TimerEvent: {}
+[124.989305] (-) TimerEvent: {}
+[125.089451] (-) TimerEvent: {}
+[125.189667] (-) TimerEvent: {}
+[125.289830] (-) TimerEvent: {}
+[125.389989] (-) TimerEvent: {}
+[125.490295] (-) TimerEvent: {}
+[125.590608] (-) TimerEvent: {}
+[125.690773] (-) TimerEvent: {}
+[125.790924] (-) TimerEvent: {}
+[125.891065] (-) TimerEvent: {}
+[125.991327] (-) TimerEvent: {}
+[126.091470] (-) TimerEvent: {}
+[126.191672] (-) TimerEvent: {}
+[126.291903] (-) TimerEvent: {}
+[126.392050] (-) TimerEvent: {}
+[126.492203] (-) TimerEvent: {}
+[126.592385] (-) TimerEvent: {}
+[126.692551] (-) TimerEvent: {}
+[126.792758] (-) TimerEvent: {}
+[126.892941] (-) TimerEvent: {}
+[126.993085] (-) TimerEvent: {}
+[127.093250] (-) TimerEvent: {}
+[127.193423] (-) TimerEvent: {}
+[127.293577] (-) TimerEvent: {}
+[127.393777] (-) TimerEvent: {}
+[127.493986] (-) TimerEvent: {}
+[127.594134] (-) TimerEvent: {}
+[127.694448] (-) TimerEvent: {}
+[127.794632] (-) TimerEvent: {}
+[127.894855] (-) TimerEvent: {}
+[127.995035] (-) TimerEvent: {}
+[128.095327] (-) TimerEvent: {}
+[128.195568] (-) TimerEvent: {}
+[128.295788] (-) TimerEvent: {}
+[128.395981] (-) TimerEvent: {}
+[128.496198] (-) TimerEvent: {}
+[128.596363] (-) TimerEvent: {}
+[128.696609] (-) TimerEvent: {}
+[128.796825] (-) TimerEvent: {}
+[128.897132] (-) TimerEvent: {}
+[128.997357] (-) TimerEvent: {}
+[129.097611] (-) TimerEvent: {}
+[129.197780] (-) TimerEvent: {}
+[129.297993] (-) TimerEvent: {}
+[129.398196] (-) TimerEvent: {}
+[129.498428] (-) TimerEvent: {}
+[129.598588] (-) TimerEvent: {}
+[129.698774] (-) TimerEvent: {}
+[129.798993] (-) TimerEvent: {}
+[129.899196] (-) TimerEvent: {}
+[129.999442] (-) TimerEvent: {}
+[130.099603] (-) TimerEvent: {}
+[130.199763] (-) TimerEvent: {}
+[130.299968] (-) TimerEvent: {}
+[130.400151] (-) TimerEvent: {}
+[130.500398] (-) TimerEvent: {}
+[130.600604] (-) TimerEvent: {}
+[130.700783] (-) TimerEvent: {}
+[130.800931] (-) TimerEvent: {}
+[130.901079] (-) TimerEvent: {}
+[131.001331] (-) TimerEvent: {}
+[131.101605] (-) TimerEvent: {}
+[131.201787] (-) TimerEvent: {}
+[131.301986] (-) TimerEvent: {}
+[131.402142] (-) TimerEvent: {}
+[131.502461] (-) TimerEvent: {}
+[131.602627] (-) TimerEvent: {}
+[131.702789] (-) TimerEvent: {}
+[131.802975] (-) TimerEvent: {}
+[131.903253] (-) TimerEvent: {}
+[132.003544] (-) TimerEvent: {}
+[132.103830] (-) TimerEvent: {}
+[132.204043] (-) TimerEvent: {}
+[132.304214] (-) TimerEvent: {}
+[132.404491] (-) TimerEvent: {}
+[132.504680] (-) TimerEvent: {}
+[132.604889] (-) TimerEvent: {}
+[132.705050] (-) TimerEvent: {}
+[132.805324] (-) TimerEvent: {}
+[132.905619] (-) TimerEvent: {}
+[133.005901] (-) TimerEvent: {}
+[133.106214] (-) TimerEvent: {}
+[133.206409] (-) TimerEvent: {}
+[133.306670] (-) TimerEvent: {}
+[133.406917] (-) TimerEvent: {}
+[133.507201] (-) TimerEvent: {}
+[133.607414] (-) TimerEvent: {}
+[133.707664] (-) TimerEvent: {}
+[133.807924] (-) TimerEvent: {}
+[133.908212] (-) TimerEvent: {}
+[134.008499] (-) TimerEvent: {}
+[134.108787] (-) TimerEvent: {}
+[134.209068] (-) TimerEvent: {}
+[134.309368] (-) TimerEvent: {}
+[134.409606] (-) TimerEvent: {}
+[134.509790] (-) TimerEvent: {}
+[134.610073] (-) TimerEvent: {}
+[134.710245] (-) TimerEvent: {}
+[134.810625] (-) TimerEvent: {}
+[134.910794] (-) TimerEvent: {}
+[135.011105] (-) TimerEvent: {}
+[135.111403] (-) TimerEvent: {}
+[135.211616] (-) TimerEvent: {}
+[135.311913] (-) TimerEvent: {}
+[135.412133] (-) TimerEvent: {}
+[135.512389] (-) TimerEvent: {}
+[135.612708] (-) TimerEvent: {}
+[135.712931] (-) TimerEvent: {}
+[135.813126] (-) TimerEvent: {}
+[135.913337] (-) TimerEvent: {}
+[136.013538] (-) TimerEvent: {}
+[136.113763] (-) TimerEvent: {}
+[136.214063] (-) TimerEvent: {}
+[136.314392] (-) TimerEvent: {}
+[136.414635] (-) TimerEvent: {}
+[136.514892] (-) TimerEvent: {}
+[136.615078] (-) TimerEvent: {}
+[136.715397] (-) TimerEvent: {}
+[136.815737] (-) TimerEvent: {}
+[136.915951] (-) TimerEvent: {}
+[137.016266] (-) TimerEvent: {}
+[137.116453] (-) TimerEvent: {}
+[137.216738] (-) TimerEvent: {}
+[137.316950] (-) TimerEvent: {}
+[137.417132] (-) TimerEvent: {}
+[137.517404] (-) TimerEvent: {}
+[137.617642] (-) TimerEvent: {}
+[137.718000] (-) TimerEvent: {}
+[137.818192] (-) TimerEvent: {}
+[137.918516] (-) TimerEvent: {}
+[138.018814] (-) TimerEvent: {}
+[138.119019] (-) TimerEvent: {}
+[138.219226] (-) TimerEvent: {}
+[138.319440] (-) TimerEvent: {}
+[138.419750] (-) TimerEvent: {}
+[138.520065] (-) TimerEvent: {}
+[138.620228] (-) TimerEvent: {}
+[138.720489] (-) TimerEvent: {}
+[138.820806] (-) TimerEvent: {}
+[138.921021] (-) TimerEvent: {}
+[139.021259] (-) TimerEvent: {}
+[139.121572] (-) TimerEvent: {}
+[139.221875] (-) TimerEvent: {}
+[139.322224] (-) TimerEvent: {}
+[139.422458] (-) TimerEvent: {}
+[139.522766] (-) TimerEvent: {}
+[139.622978] (-) TimerEvent: {}
+[139.723302] (-) TimerEvent: {}
+[139.823621] (-) TimerEvent: {}
+[139.923941] (-) TimerEvent: {}
+[140.024252] (-) TimerEvent: {}
+[140.124577] (-) TimerEvent: {}
+[140.224928] (-) TimerEvent: {}
+[140.325239] (-) TimerEvent: {}
+[140.425589] (-) TimerEvent: {}
+[140.525930] (-) TimerEvent: {}
+[140.626112] (-) TimerEvent: {}
+[140.726328] (-) TimerEvent: {}
+[140.826639] (-) TimerEvent: {}
+[140.926959] (-) TimerEvent: {}
+[141.027287] (-) TimerEvent: {}
+[141.127643] (-) TimerEvent: {}
+[141.227989] (-) TimerEvent: {}
+[141.328303] (-) TimerEvent: {}
+[141.428611] (-) TimerEvent: {}
+[141.528963] (-) TimerEvent: {}
+[141.629282] (-) TimerEvent: {}
+[141.729571] (-) TimerEvent: {}
+[141.829897] (-) TimerEvent: {}
+[141.930049] (-) TimerEvent: {}
+[142.030316] (-) TimerEvent: {}
+[142.130526] (-) TimerEvent: {}
+[142.230833] (-) TimerEvent: {}
+[142.331029] (-) TimerEvent: {}
+[142.431300] (-) TimerEvent: {}
+[142.531498] (-) TimerEvent: {}
+[142.631861] (-) TimerEvent: {}
+[142.732148] (-) TimerEvent: {}
+[142.832378] (-) TimerEvent: {}
+[142.932658] (-) TimerEvent: {}
+[143.032981] (-) TimerEvent: {}
+[143.133255] (-) TimerEvent: {}
+[143.233542] (-) TimerEvent: {}
+[143.333833] (-) TimerEvent: {}
+[143.434016] (-) TimerEvent: {}
+[143.534166] (-) TimerEvent: {}
+[143.634416] (-) TimerEvent: {}
+[143.734710] (-) TimerEvent: {}
+[143.835013] (-) TimerEvent: {}
+[143.935183] (-) TimerEvent: {}
+[144.035380] (-) TimerEvent: {}
+[144.135558] (-) TimerEvent: {}
+[144.235724] (-) TimerEvent: {}
+[144.335926] (-) TimerEvent: {}
+[144.436198] (-) TimerEvent: {}
+[144.536405] (-) TimerEvent: {}
+[144.636682] (-) TimerEvent: {}
+[144.736991] (-) TimerEvent: {}
+[144.837365] (-) TimerEvent: {}
+[144.937629] (-) TimerEvent: {}
+[145.037928] (-) TimerEvent: {}
+[145.138215] (-) TimerEvent: {}
+[145.238385] (-) TimerEvent: {}
+[145.338639] (-) TimerEvent: {}
+[145.438917] (-) TimerEvent: {}
+[145.539200] (-) TimerEvent: {}
+[145.639474] (-) TimerEvent: {}
+[145.739785] (-) TimerEvent: {}
+[145.840097] (-) TimerEvent: {}
+[145.940386] (-) TimerEvent: {}
+[146.040664] (-) TimerEvent: {}
+[146.140961] (-) TimerEvent: {}
+[146.241137] (-) TimerEvent: {}
+[146.341414] (-) TimerEvent: {}
+[146.441604] (-) TimerEvent: {}
+[146.541769] (-) TimerEvent: {}
+[146.641980] (-) TimerEvent: {}
+[146.742189] (-) TimerEvent: {}
+[146.842409] (-) TimerEvent: {}
+[146.942674] (-) TimerEvent: {}
+[147.042863] (-) TimerEvent: {}
+[147.143067] (-) TimerEvent: {}
+[147.243280] (-) TimerEvent: {}
+[147.343566] (-) TimerEvent: {}
+[147.443731] (-) TimerEvent: {}
+[147.544102] (-) TimerEvent: {}
+[147.644309] (-) TimerEvent: {}
+[147.744552] (-) TimerEvent: {}
+[147.844716] (-) TimerEvent: {}
+[147.944964] (-) TimerEvent: {}
+[148.045266] (-) TimerEvent: {}
+[148.145482] (-) TimerEvent: {}
+[148.245745] (-) TimerEvent: {}
+[148.346026] (-) TimerEvent: {}
+[148.446351] (-) TimerEvent: {}
+[148.546566] (-) TimerEvent: {}
+[148.646839] (-) TimerEvent: {}
+[148.747032] (-) TimerEvent: {}
+[148.847325] (-) TimerEvent: {}
+[148.947625] (-) TimerEvent: {}
+[149.047826] (-) TimerEvent: {}
+[149.147994] (-) TimerEvent: {}
+[149.248193] (-) TimerEvent: {}
+[149.348408] (-) TimerEvent: {}
+[149.448660] (-) TimerEvent: {}
+[149.549029] (-) TimerEvent: {}
+[149.649183] (-) TimerEvent: {}
+[149.749367] (-) TimerEvent: {}
+[149.849565] (-) TimerEvent: {}
+[149.949850] (-) TimerEvent: {}
+[150.050045] (-) TimerEvent: {}
+[150.065776] (phasespace_bringup_ros2) CommandEnded: {'returncode': 0}
+[150.066113] (phasespace_bringup_ros2) JobProgress: {'identifier': 'phasespace_bringup_ros2', 'progress': 'build'}
+[150.066855] (phasespace_bringup_ros2) Command: {'cmd': ['/usr/bin/cmake', '--build', '/home/anshul/Research/PostDoc/mocap/build/phasespace_bringup_ros2', '--', '-j20', '-l20'], 'cwd': '/home/anshul/Research/PostDoc/mocap/build/phasespace_bringup_ros2', 'env': OrderedDict([('GJS_DEBUG_TOPICS', 'JS ERROR;JS LOG'), ('LESSOPEN', '| /usr/bin/lesspipe %s'), ('VSCODE_CWD', '/home/anshul'), ('VSCODE_ESM_ENTRYPOINT', 'vs/workbench/api/node/extensionHostProcess'), ('CONDA_PROMPT_MODIFIER', '(base)'), ('CODEX_CI', '1'), ('USER', 'anshul'), ('CODEX_INTERNAL_ORIGINATOR_OVERRIDE', 'codex_vscode'), ('VSCODE_NLS_CONFIG', '{"userLocale":"en-us","osLocale":"en-us","resolvedLanguage":"en","defaultMessagesFile":"/usr/share/code/resources/app/out/nls.messages.json","locale":"en-us","availableLanguages":{}}'), ('VSCODE_HANDLES_UNCAUGHT_ERRORS', 'true'), ('XDG_SESSION_TYPE', 'x11'), ('DEBUG', 'release'), ('SHLVL', '0'), ('LD_LIBRARY_PATH', '/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/lib:/home/anshul/casadi/build/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/home/anshul'), ('CHROME_DESKTOP', 'code.desktop'), ('CONDA_SHLVL', '1'), ('DESKTOP_SESSION', 'ubuntu'), ('VSCODE_IPC_HOOK', '/run/user/1000/vscode-0b922b41-1.99-main.sock'), ('GIO_LAUNCHED_DESKTOP_FILE', '/usr/share/applications/code.desktop'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('PAGER', 'cat'), ('MANAGERPID', '1996'), ('LC_CTYPE', 'C.UTF-8'), ('SYSTEMD_EXEC_PID', '2292'), ('NO_COLOR', '1'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLORTERM', ''), ('GIO_LAUNCHED_DESKTOP_FILE_PID', '13935'), ('_colcon_cd_root', '/opt/ros/humble/'), ('VSCODE_CRASH_REPORTER_PROCESS_TYPE', 'extensionHost'), ('MANDATORY_PATH', '/usr/share/gconf/ubuntu.mandatory.path'), ('VSCODE_L10N_BUNDLE_LOCATION', ''), ('ROS_DISTRO', 'humble'), ('GTK_IM_MODULE', 'ibus'), ('LOGNAME', 'anshul'), ('JOURNAL_STREAM', '8:17202'), ('_', '/usr/bin/env'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('DEFAULTS_PATH', '/usr/share/gconf/ubuntu.default.path'), ('RUST_LOG', 'warn'), ('USERNAME', 'anshul'), ('TERM', 'dumb'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('ROS_LOCALHOST_ONLY', '0'), ('WINDOWPATH', '2'), ('PATH', '/usr/bin:/bin:/usr/sbin:/sbin:/opt/ros/humble/bin'), ('SESSION_MANAGER', 'local/anshul-Linux:@/tmp/.ICE-unix/2268,unix/anshul-Linux:/tmp/.ICE-unix/2268'), ('INVOCATION_ID', '73cf8843a98c4ec9ad96ba6ba4f95413'), ('XDG_MENU_PREFIX', 'gnome-'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('GDK_BACKEND', 'x11'), ('DISPLAY', ':1'), ('CODEX_SANDBOX_NETWORK_DISABLED', '1'), ('LANG', 'en_US.UTF-8'), ('XDG_CURRENT_DESKTOP', 'Unity'), ('XMODIFIERS', '@im=ibus'), ('GH_PAGER', 'cat'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/1000/gdm/Xauthority'), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('GSETTINGS_SCHEMA_DIR', '/home/anshul/miniconda3/share/glib-2.0/schemas'), ('AMENT_PREFIX_PATH', '/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2:/opt/ros/humble'), ('CONDA_PYTHON_EXE', '/home/anshul/miniconda3/bin/python'), ('ORIGINAL_XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('SHELL', '/bin/bash'), ('QT_ACCESSIBILITY', '1'), ('ELECTRON_RUN_AS_NODE', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('CONDA_DEFAULT_ENV', 'base'), ('CODEX_THREAD_ID', '019da236-c726-7413-b965-d416169df785'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('GJS_DEBUG_OUTPUT', 'stderr'), ('GIT_PAGER', 'cat'), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/anshul/Research/PostDoc/mocap/build/phasespace_bringup_ros2'), ('LC_ALL', 'en_US.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('CONDA_EXE', '/home/anshul/miniconda3/bin/conda'), ('VSCODE_CODE_CACHE_PATH', '/home/anshul/.config/Code/CachedData/17baf841131aa23349f217ca7c570c76ee87b957'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('CONDA_PREFIX', '/home/anshul/miniconda3'), ('COLCON', '1'), ('VSCODE_PID', '13935'), ('CMAKE_PREFIX_PATH', '/opt/ros/humble:/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2')]), 'shell': False}
+[150.099740] (phasespace_bringup_ros2) StdoutLine: {'line': b'Consolidate compiler generated dependencies of target phasespace_bringup_node\n'}
+[150.110050] (phasespace_bringup_ros2) StdoutLine: {'line': b'[100%] Built target phasespace_bringup_node\n'}
+[150.150143] (-) TimerEvent: {}
+[150.250340] (-) TimerEvent: {}
+[150.350604] (-) TimerEvent: {}
+[150.450823] (-) TimerEvent: {}
+[150.550924] (-) TimerEvent: {}
+[150.651083] (-) TimerEvent: {}
+[150.751388] (-) TimerEvent: {}
+[150.851667] (-) TimerEvent: {}
+[150.951909] (-) TimerEvent: {}
+[151.052070] (-) TimerEvent: {}
+[151.152284] (-) TimerEvent: {}
+[151.252516] (-) TimerEvent: {}
+[151.352797] (-) TimerEvent: {}
+[151.452924] (-) TimerEvent: {}
+[151.553187] (-) TimerEvent: {}
+[151.653390] (-) TimerEvent: {}
+[151.753608] (-) TimerEvent: {}
+[151.853835] (-) TimerEvent: {}
+[151.954055] (-) TimerEvent: {}
+[152.054221] (-) TimerEvent: {}
+[152.154436] (-) TimerEvent: {}
+[152.254691] (-) TimerEvent: {}
+[152.354919] (-) TimerEvent: {}
+[152.455087] (-) TimerEvent: {}
+[152.555353] (-) TimerEvent: {}
+[152.655564] (-) TimerEvent: {}
+[152.755736] (-) TimerEvent: {}
+[152.855958] (-) TimerEvent: {}
+[152.956117] (-) TimerEvent: {}
+[153.056316] (-) TimerEvent: {}
+[153.156460] (-) TimerEvent: {}
+[153.256643] (-) TimerEvent: {}
+[153.356924] (-) TimerEvent: {}
+[153.457090] (-) TimerEvent: {}
+[153.557286] (-) TimerEvent: {}
+[153.657580] (-) TimerEvent: {}
+[153.757865] (-) TimerEvent: {}
+[153.858031] (-) TimerEvent: {}
+[153.958244] (-) TimerEvent: {}
+[154.058391] (-) TimerEvent: {}
+[154.158590] (-) TimerEvent: {}
+[154.258761] (-) TimerEvent: {}
+[154.358934] (-) TimerEvent: {}
+[154.459096] (-) TimerEvent: {}
+[154.559238] (-) TimerEvent: {}
+[154.659405] (-) TimerEvent: {}
+[154.759681] (-) TimerEvent: {}
+[154.859940] (-) TimerEvent: {}
+[154.960085] (-) TimerEvent: {}
+[155.060256] (-) TimerEvent: {}
+[155.160424] (-) TimerEvent: {}
+[155.260683] (-) TimerEvent: {}
+[155.360966] (-) TimerEvent: {}
+[155.461246] (-) TimerEvent: {}
+[155.561436] (-) TimerEvent: {}
+[155.661618] (-) TimerEvent: {}
+[155.761895] (-) TimerEvent: {}
+[155.862185] (-) TimerEvent: {}
+[155.962419] (-) TimerEvent: {}
+[156.062697] (-) TimerEvent: {}
+[156.162971] (-) TimerEvent: {}
+[156.263242] (-) TimerEvent: {}
+[156.363546] (-) TimerEvent: {}
+[156.463779] (-) TimerEvent: {}
+[156.563961] (-) TimerEvent: {}
+[156.664111] (-) TimerEvent: {}
+[156.764388] (-) TimerEvent: {}
+[156.864607] (-) TimerEvent: {}
+[156.964834] (-) TimerEvent: {}
+[157.065070] (-) TimerEvent: {}
+[157.165275] (-) TimerEvent: {}
+[157.265419] (-) TimerEvent: {}
+[157.365618] (-) TimerEvent: {}
+[157.465839] (-) TimerEvent: {}
+[157.566042] (-) TimerEvent: {}
+[157.666333] (-) TimerEvent: {}
+[157.766647] (-) TimerEvent: {}
+[157.866904] (-) TimerEvent: {}
+[157.967106] (-) TimerEvent: {}
+[158.067292] (-) TimerEvent: {}
+[158.167506] (-) TimerEvent: {}
+[158.267819] (-) TimerEvent: {}
+[158.368017] (-) TimerEvent: {}
+[158.468228] (-) TimerEvent: {}
+[158.568398] (-) TimerEvent: {}
+[158.668594] (-) TimerEvent: {}
+[158.768851] (-) TimerEvent: {}
+[158.869177] (-) TimerEvent: {}
+[158.969483] (-) TimerEvent: {}
+[159.069674] (-) TimerEvent: {}
+[159.169848] (-) TimerEvent: {}
+[159.270075] (-) TimerEvent: {}
+[159.370256] (-) TimerEvent: {}
+[159.470540] (-) TimerEvent: {}
+[159.570743] (-) TimerEvent: {}
+[159.671009] (-) TimerEvent: {}
+[159.771194] (-) TimerEvent: {}
+[159.871376] (-) TimerEvent: {}
+[159.971596] (-) TimerEvent: {}
+[160.071944] (-) TimerEvent: {}
+[160.172143] (-) TimerEvent: {}
+[160.272343] (-) TimerEvent: {}
+[160.372509] (-) TimerEvent: {}
+[160.472678] (-) TimerEvent: {}
+[160.572896] (-) TimerEvent: {}
+[160.673227] (-) TimerEvent: {}
+[160.773548] (-) TimerEvent: {}
+[160.873852] (-) TimerEvent: {}
+[160.974048] (-) TimerEvent: {}
+[161.074218] (-) TimerEvent: {}
+[161.174477] (-) TimerEvent: {}
+[161.274752] (-) TimerEvent: {}
+[161.375022] (-) TimerEvent: {}
+[161.475172] (-) TimerEvent: {}
+[161.575390] (-) TimerEvent: {}
+[161.675578] (-) TimerEvent: {}
+[161.775899] (-) TimerEvent: {}
+[161.876072] (-) TimerEvent: {}
+[161.976240] (-) TimerEvent: {}
+[162.076401] (-) TimerEvent: {}
+[162.176662] (-) TimerEvent: {}
+[162.276812] (-) TimerEvent: {}
+[162.377031] (-) TimerEvent: {}
+[162.477181] (-) TimerEvent: {}
+[162.577324] (-) TimerEvent: {}
+[162.677511] (-) TimerEvent: {}
+[162.777702] (-) TimerEvent: {}
+[162.877980] (-) TimerEvent: {}
+[162.978131] (-) TimerEvent: {}
+[163.078278] (-) TimerEvent: {}
+[163.178522] (-) TimerEvent: {}
+[163.278671] (-) TimerEvent: {}
+[163.378850] (-) TimerEvent: {}
+[163.479002] (-) TimerEvent: {}
+[163.579292] (-) TimerEvent: {}
+[163.679493] (-) TimerEvent: {}
+[163.779808] (-) TimerEvent: {}
+[163.880028] (-) TimerEvent: {}
+[163.980300] (-) TimerEvent: {}
+[164.080564] (-) TimerEvent: {}
+[164.180735] (-) TimerEvent: {}
+[164.281014] (-) TimerEvent: {}
+[164.381180] (-) TimerEvent: {}
+[164.481396] (-) TimerEvent: {}
+[164.581592] (-) TimerEvent: {}
+[164.681794] (-) TimerEvent: {}
+[164.781953] (-) TimerEvent: {}
+[164.882119] (-) TimerEvent: {}
+[164.982400] (-) TimerEvent: {}
+[165.082671] (-) TimerEvent: {}
+[165.182939] (-) TimerEvent: {}
+[165.283203] (-) TimerEvent: {}
+[165.383462] (-) TimerEvent: {}
+[165.483645] (-) TimerEvent: {}
+[165.583916] (-) TimerEvent: {}
+[165.684069] (-) TimerEvent: {}
+[165.784223] (-) TimerEvent: {}
+[165.884406] (-) TimerEvent: {}
+[165.984656] (-) TimerEvent: {}
+[166.084937] (-) TimerEvent: {}
+[166.185086] (-) TimerEvent: {}
+[166.285460] (-) TimerEvent: {}
+[166.385736] (-) TimerEvent: {}
+[166.486007] (-) TimerEvent: {}
+[166.586157] (-) TimerEvent: {}
+[166.686431] (-) TimerEvent: {}
+[166.786638] (-) TimerEvent: {}
+[166.886930] (-) TimerEvent: {}
+[166.987104] (-) TimerEvent: {}
+[167.087283] (-) TimerEvent: {}
+[167.187574] (-) TimerEvent: {}
+[167.287888] (-) TimerEvent: {}
+[167.388143] (-) TimerEvent: {}
+[167.488408] (-) TimerEvent: {}
+[167.588670] (-) TimerEvent: {}
+[167.688905] (-) TimerEvent: {}
+[167.789096] (-) TimerEvent: {}
+[167.889384] (-) TimerEvent: {}
+[167.989632] (-) TimerEvent: {}
+[168.089819] (-) TimerEvent: {}
+[168.189958] (-) TimerEvent: {}
+[168.290132] (-) TimerEvent: {}
+[168.390287] (-) TimerEvent: {}
+[168.490437] (-) TimerEvent: {}
+[168.590694] (-) TimerEvent: {}
+[168.690971] (-) TimerEvent: {}
+[168.791259] (-) TimerEvent: {}
+[168.891538] (-) TimerEvent: {}
+[168.991805] (-) TimerEvent: {}
+[169.092040] (-) TimerEvent: {}
+[169.192207] (-) TimerEvent: {}
+[169.292476] (-) TimerEvent: {}
+[169.392681] (-) TimerEvent: {}
+[169.492955] (-) TimerEvent: {}
+[169.593212] (-) TimerEvent: {}
+[169.693373] (-) TimerEvent: {}
+[169.793630] (-) TimerEvent: {}
+[169.893893] (-) TimerEvent: {}
+[169.994150] (-) TimerEvent: {}
+[170.094353] (-) TimerEvent: {}
+[170.194635] (-) TimerEvent: {}
+[170.294843] (-) TimerEvent: {}
+[170.395130] (-) TimerEvent: {}
+[170.495416] (-) TimerEvent: {}
+[170.595723] (-) TimerEvent: {}
+[170.696028] (-) TimerEvent: {}
+[170.796196] (-) TimerEvent: {}
+[170.896402] (-) TimerEvent: {}
+[170.996607] (-) TimerEvent: {}
+[171.096875] (-) TimerEvent: {}
+[171.197056] (-) TimerEvent: {}
+[171.297362] (-) TimerEvent: {}
+[171.397654] (-) TimerEvent: {}
+[171.497937] (-) TimerEvent: {}
+[171.598206] (-) TimerEvent: {}
+[171.698563] (-) TimerEvent: {}
+[171.798735] (-) TimerEvent: {}
+[171.898889] (-) TimerEvent: {}
+[171.999034] (-) TimerEvent: {}
+[172.099279] (-) TimerEvent: {}
+[172.199572] (-) TimerEvent: {}
+[172.299842] (-) TimerEvent: {}
+[172.400125] (-) TimerEvent: {}
+[172.500291] (-) TimerEvent: {}
+[172.600484] (-) TimerEvent: {}
+[172.700665] (-) TimerEvent: {}
+[172.800854] (-) TimerEvent: {}
+[172.901130] (-) TimerEvent: {}
+[173.001323] (-) TimerEvent: {}
+[173.101617] (-) TimerEvent: {}
+[173.201886] (-) TimerEvent: {}
+[173.302056] (-) TimerEvent: {}
+[173.402322] (-) TimerEvent: {}
+[173.502604] (-) TimerEvent: {}
+[173.602881] (-) TimerEvent: {}
+[173.703035] (-) TimerEvent: {}
+[173.803189] (-) TimerEvent: {}
+[173.903414] (-) TimerEvent: {}
+[174.003714] (-) TimerEvent: {}
+[174.103890] (-) TimerEvent: {}
+[174.204059] (-) TimerEvent: {}
+[174.304238] (-) TimerEvent: {}
+[174.404442] (-) TimerEvent: {}
+[174.504682] (-) TimerEvent: {}
+[174.604843] (-) TimerEvent: {}
+[174.705014] (-) TimerEvent: {}
+[174.805183] (-) TimerEvent: {}
+[174.905351] (-) TimerEvent: {}
+[175.005497] (-) TimerEvent: {}
+[175.105665] (-) TimerEvent: {}
+[175.205867] (-) TimerEvent: {}
+[175.306130] (-) TimerEvent: {}
+[175.406399] (-) TimerEvent: {}
+[175.506691] (-) TimerEvent: {}
+[175.606964] (-) TimerEvent: {}
+[175.707249] (-) TimerEvent: {}
+[175.807450] (-) TimerEvent: {}
+[175.907673] (-) TimerEvent: {}
+[176.007938] (-) TimerEvent: {}
+[176.108213] (-) TimerEvent: {}
+[176.208439] (-) TimerEvent: {}
+[176.308587] (-) TimerEvent: {}
+[176.408875] (-) TimerEvent: {}
+[176.509034] (-) TimerEvent: {}
+[176.609318] (-) TimerEvent: {}
+[176.709578] (-) TimerEvent: {}
+[176.809792] (-) TimerEvent: {}
+[176.909950] (-) TimerEvent: {}
+[177.010125] (-) TimerEvent: {}
+[177.110294] (-) TimerEvent: {}
+[177.210603] (-) TimerEvent: {}
+[177.310894] (-) TimerEvent: {}
+[177.411158] (-) TimerEvent: {}
+[177.511346] (-) TimerEvent: {}
+[177.611625] (-) TimerEvent: {}
+[177.711936] (-) TimerEvent: {}
+[177.812103] (-) TimerEvent: {}
+[177.912406] (-) TimerEvent: {}
+[178.012580] (-) TimerEvent: {}
+[178.112886] (-) TimerEvent: {}
+[178.213097] (-) TimerEvent: {}
+[178.313258] (-) TimerEvent: {}
+[178.413545] (-) TimerEvent: {}
+[178.513729] (-) TimerEvent: {}
+[178.614004] (-) TimerEvent: {}
+[178.714169] (-) TimerEvent: {}
+[178.814451] (-) TimerEvent: {}
+[178.914652] (-) TimerEvent: {}
+[179.014918] (-) TimerEvent: {}
+[179.115086] (-) TimerEvent: {}
+[179.215357] (-) TimerEvent: {}
+[179.315569] (-) TimerEvent: {}
+[179.415845] (-) TimerEvent: {}
+[179.516057] (-) TimerEvent: {}
+[179.616224] (-) TimerEvent: {}
+[179.716488] (-) TimerEvent: {}
+[179.816752] (-) TimerEvent: {}
+[179.917057] (-) TimerEvent: {}
+[180.017310] (-) TimerEvent: {}
+[180.070160] (phasespace_bringup_ros2) CommandEnded: {'returncode': 0}
+[180.070642] (phasespace_bringup_ros2) JobProgress: {'identifier': 'phasespace_bringup_ros2', 'progress': 'install'}
+[180.070898] (phasespace_bringup_ros2) Command: {'cmd': ['/usr/bin/cmake', '--install', '/home/anshul/Research/PostDoc/mocap/build/phasespace_bringup_ros2'], 'cwd': '/home/anshul/Research/PostDoc/mocap/build/phasespace_bringup_ros2', 'env': OrderedDict([('GJS_DEBUG_TOPICS', 'JS ERROR;JS LOG'), ('LESSOPEN', '| /usr/bin/lesspipe %s'), ('VSCODE_CWD', '/home/anshul'), ('VSCODE_ESM_ENTRYPOINT', 'vs/workbench/api/node/extensionHostProcess'), ('CONDA_PROMPT_MODIFIER', '(base)'), ('CODEX_CI', '1'), ('USER', 'anshul'), ('CODEX_INTERNAL_ORIGINATOR_OVERRIDE', 'codex_vscode'), ('VSCODE_NLS_CONFIG', '{"userLocale":"en-us","osLocale":"en-us","resolvedLanguage":"en","defaultMessagesFile":"/usr/share/code/resources/app/out/nls.messages.json","locale":"en-us","availableLanguages":{}}'), ('VSCODE_HANDLES_UNCAUGHT_ERRORS', 'true'), ('XDG_SESSION_TYPE', 'x11'), ('DEBUG', 'release'), ('SHLVL', '0'), ('LD_LIBRARY_PATH', '/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/lib:/home/anshul/casadi/build/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/home/anshul'), ('CHROME_DESKTOP', 'code.desktop'), ('CONDA_SHLVL', '1'), ('DESKTOP_SESSION', 'ubuntu'), ('VSCODE_IPC_HOOK', '/run/user/1000/vscode-0b922b41-1.99-main.sock'), ('GIO_LAUNCHED_DESKTOP_FILE', '/usr/share/applications/code.desktop'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('PAGER', 'cat'), ('MANAGERPID', '1996'), ('LC_CTYPE', 'C.UTF-8'), ('SYSTEMD_EXEC_PID', '2292'), ('NO_COLOR', '1'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLORTERM', ''), ('GIO_LAUNCHED_DESKTOP_FILE_PID', '13935'), ('_colcon_cd_root', '/opt/ros/humble/'), ('VSCODE_CRASH_REPORTER_PROCESS_TYPE', 'extensionHost'), ('MANDATORY_PATH', '/usr/share/gconf/ubuntu.mandatory.path'), ('VSCODE_L10N_BUNDLE_LOCATION', ''), ('ROS_DISTRO', 'humble'), ('GTK_IM_MODULE', 'ibus'), ('LOGNAME', 'anshul'), ('JOURNAL_STREAM', '8:17202'), ('_', '/usr/bin/env'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('DEFAULTS_PATH', '/usr/share/gconf/ubuntu.default.path'), ('RUST_LOG', 'warn'), ('USERNAME', 'anshul'), ('TERM', 'dumb'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('ROS_LOCALHOST_ONLY', '0'), ('WINDOWPATH', '2'), ('PATH', '/usr/bin:/bin:/usr/sbin:/sbin:/opt/ros/humble/bin'), ('SESSION_MANAGER', 'local/anshul-Linux:@/tmp/.ICE-unix/2268,unix/anshul-Linux:/tmp/.ICE-unix/2268'), ('INVOCATION_ID', '73cf8843a98c4ec9ad96ba6ba4f95413'), ('XDG_MENU_PREFIX', 'gnome-'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('GDK_BACKEND', 'x11'), ('DISPLAY', ':1'), ('CODEX_SANDBOX_NETWORK_DISABLED', '1'), ('LANG', 'en_US.UTF-8'), ('XDG_CURRENT_DESKTOP', 'Unity'), ('XMODIFIERS', '@im=ibus'), ('GH_PAGER', 'cat'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/1000/gdm/Xauthority'), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('GSETTINGS_SCHEMA_DIR', '/home/anshul/miniconda3/share/glib-2.0/schemas'), ('AMENT_PREFIX_PATH', '/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2:/opt/ros/humble'), ('CONDA_PYTHON_EXE', '/home/anshul/miniconda3/bin/python'), ('ORIGINAL_XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('SHELL', '/bin/bash'), ('QT_ACCESSIBILITY', '1'), ('ELECTRON_RUN_AS_NODE', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('CONDA_DEFAULT_ENV', 'base'), ('CODEX_THREAD_ID', '019da236-c726-7413-b965-d416169df785'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('GJS_DEBUG_OUTPUT', 'stderr'), ('GIT_PAGER', 'cat'), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/anshul/Research/PostDoc/mocap/build/phasespace_bringup_ros2'), ('LC_ALL', 'en_US.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('CONDA_EXE', '/home/anshul/miniconda3/bin/conda'), ('VSCODE_CODE_CACHE_PATH', '/home/anshul/.config/Code/CachedData/17baf841131aa23349f217ca7c570c76ee87b957'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('CONDA_PREFIX', '/home/anshul/miniconda3'), ('COLCON', '1'), ('VSCODE_PID', '13935'), ('CMAKE_PREFIX_PATH', '/opt/ros/humble:/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2')]), 'shell': False}
+[180.076383] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[180.076735] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/lib/phasespace_bringup_ros2/phasespace_bringup_node\n'}
+[180.076806] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/include\n'}
+[180.076909] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/include/phasespace_bringup_ros2\n'}
+[180.076962] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/include/phasespace_bringup_ros2/owl.hpp\n'}
+[180.077055] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/include/phasespace_bringup_ros2/owl_math.h\n'}
+[180.077082] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/include/phasespace_bringup_ros2/owl_rx.hpp\n'}
+[180.077106] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/lib/libowlsock.so\n'}
+[180.077138] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/lib/phasespace_bringup_ros2/read_rigids.py\n'}
+[180.077163] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Installing: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/lib/phasespace_bringup_ros2/plot_xy_data.py\n'}
+[180.077189] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/phasespace_bringup_ros2/launch\n'}
+[180.077212] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/phasespace_bringup_ros2/launch/phasespace_mocap.launch.py\n'}
+[180.077237] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/ament_index/resource_index/package_run_dependencies/phasespace_bringup_ros2\n'}
+[180.077260] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/ament_index/resource_index/parent_prefix_path/phasespace_bringup_ros2\n'}
+[180.077284] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/phasespace_bringup_ros2/environment/ament_prefix_path.sh\n'}
+[180.077307] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Installing: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/phasespace_bringup_ros2/environment/ament_prefix_path.dsv\n'}
+[180.077336] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/phasespace_bringup_ros2/environment/path.sh\n'}
+[180.077359] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Installing: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/phasespace_bringup_ros2/environment/path.dsv\n'}
+[180.077381] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/phasespace_bringup_ros2/local_setup.bash\n'}
+[180.077403] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/phasespace_bringup_ros2/local_setup.sh\n'}
+[180.077424] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/phasespace_bringup_ros2/local_setup.zsh\n'}
+[180.077446] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Installing: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/phasespace_bringup_ros2/local_setup.dsv\n'}
+[180.077468] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Installing: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/phasespace_bringup_ros2/package.dsv\n'}
+[180.077490] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/ament_index/resource_index/packages/phasespace_bringup_ros2\n'}
+[180.077511] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/phasespace_bringup_ros2/cmake/phasespace_bringup_ros2Config.cmake\n'}
+[180.077532] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/phasespace_bringup_ros2/cmake/phasespace_bringup_ros2Config-version.cmake\n'}
+[180.077554] (phasespace_bringup_ros2) StdoutLine: {'line': b'-- Up-to-date: /home/anshul/Research/PostDoc/mocap/install/phasespace_bringup_ros2/share/phasespace_bringup_ros2/package.xml\n'}
+[180.077896] (phasespace_bringup_ros2) CommandEnded: {'returncode': 0}
+[180.088703] (phasespace_bringup_ros2) JobEnded: {'identifier': 'phasespace_bringup_ros2', 'rc': 0}
+[180.088893] (-) EventReactorShutdown: {}

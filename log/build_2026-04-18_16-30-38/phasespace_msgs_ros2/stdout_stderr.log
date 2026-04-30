@@ -1,0 +1,26 @@
+[  1%] Built target phasespace_msgs_ros2__cpp
+[ 12%] Built target phasespace_msgs_ros2__rosidl_generator_c
+[ 12%] Built target ament_cmake_python_copy_phasespace_msgs_ros2
+[ 33%] Built target phasespace_msgs_ros2__rosidl_typesupport_introspection_c
+[ 35%] Built target phasespace_msgs_ros2__rosidl_typesupport_introspection_cpp
+[ 46%] Built target phasespace_msgs_ros2__rosidl_typesupport_fastrtps_cpp
+[ 57%] Built target phasespace_msgs_ros2__rosidl_typesupport_c
+[ 69%] Built target phasespace_msgs_ros2__rosidl_typesupport_cpp
+[ 80%] Built target phasespace_msgs_ros2__rosidl_typesupport_fastrtps_c
+[ 80%] Built target phasespace_msgs_ros2
+[ 81%] Generating Python code for ROS interfaces
+Traceback (most recent call last):
+  File "/opt/ros/humble/share/rosidl_generator_py/cmake/../../../lib/rosidl_generator_py/rosidl_generator_py", line 8, in <module>
+    from rosidl_generator_py import generate_py
+ImportError: cannot import name 'generate_py' from 'rosidl_generator_py' (/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_generator_py/__init__.py)
+gmake[2]: *** [phasespace_msgs_ros2__py/CMakeFiles/phasespace_msgs_ros2__py.dir/build.make:138: rosidl_generator_py/phasespace_msgs_ros2/_phasespace_msgs_ros2_s.ep.rosidl_typesupport_fastrtps_c.c] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:590: phasespace_msgs_ros2__py/CMakeFiles/phasespace_msgs_ros2__py.dir/all] Error 2
+gmake[1]: *** Waiting for unfinished jobs....
+running egg_info
+writing phasespace_msgs_ros2.egg-info/PKG-INFO
+writing dependency_links to phasespace_msgs_ros2.egg-info/dependency_links.txt
+writing top-level names to phasespace_msgs_ros2.egg-info/top_level.txt
+reading manifest file 'phasespace_msgs_ros2.egg-info/SOURCES.txt'
+writing manifest file 'phasespace_msgs_ros2.egg-info/SOURCES.txt'
+[ 81%] Built target ament_cmake_python_build_phasespace_msgs_ros2_egg
+gmake: *** [Makefile:146: all] Error 2

@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/opt/ros/humble/share/rosidl_generator_py/cmake/../../../lib/rosidl_generator_py/rosidl_generator_py", line 8, in <module>
+    from rosidl_generator_py import generate_py
+ModuleNotFoundError: No module named 'rosidl_generator_py'
+gmake[2]: *** [phasespace_msgs_ros2__py/CMakeFiles/phasespace_msgs_ros2__py.dir/build.make:138: rosidl_generator_py/phasespace_msgs_ros2/_phasespace_msgs_ros2_s.ep.rosidl_typesupport_fastrtps_c.c] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:590: phasespace_msgs_ros2__py/CMakeFiles/phasespace_msgs_ros2__py.dir/all] Error 2
+gmake[1]: *** Waiting for unfinished jobs....
+gmake: *** [Makefile:146: all] Error 2

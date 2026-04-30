@@ -1,0 +1,345 @@
+[0.000000] (-) TimerEvent: {}
+[0.000131] (phasespace_msgs_ros2) JobQueued: {'identifier': 'phasespace_msgs_ros2', 'dependencies': OrderedDict()}
+[0.000288] (phasespace_bringup_ros2) JobQueued: {'identifier': 'phasespace_bringup_ros2', 'dependencies': OrderedDict([('phasespace_msgs_ros2', '/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2')])}
+[0.000420] (phasespace_msgs_ros2) JobStarted: {'identifier': 'phasespace_msgs_ros2'}
+[0.100003] (-) TimerEvent: {}
+[0.200325] (-) TimerEvent: {}
+[0.300657] (-) TimerEvent: {}
+[0.400940] (-) TimerEvent: {}
+[0.501230] (-) TimerEvent: {}
+[0.601465] (-) TimerEvent: {}
+[0.701633] (-) TimerEvent: {}
+[0.801935] (-) TimerEvent: {}
+[0.902247] (-) TimerEvent: {}
+[1.002629] (-) TimerEvent: {}
+[1.102862] (-) TimerEvent: {}
+[1.203178] (-) TimerEvent: {}
+[1.303519] (-) TimerEvent: {}
+[1.403863] (-) TimerEvent: {}
+[1.504181] (-) TimerEvent: {}
+[1.604350] (-) TimerEvent: {}
+[1.704601] (-) TimerEvent: {}
+[1.804790] (-) TimerEvent: {}
+[1.905078] (-) TimerEvent: {}
+[2.005380] (-) TimerEvent: {}
+[2.105701] (-) TimerEvent: {}
+[2.205893] (-) TimerEvent: {}
+[2.306083] (-) TimerEvent: {}
+[2.406292] (-) TimerEvent: {}
+[2.506405] (-) TimerEvent: {}
+[2.606568] (-) TimerEvent: {}
+[2.706720] (-) TimerEvent: {}
+[2.806924] (-) TimerEvent: {}
+[2.907073] (-) TimerEvent: {}
+[3.007234] (-) TimerEvent: {}
+[3.107388] (-) TimerEvent: {}
+[3.207535] (-) TimerEvent: {}
+[3.307803] (-) TimerEvent: {}
+[3.407999] (-) TimerEvent: {}
+[3.508214] (-) TimerEvent: {}
+[3.608390] (-) TimerEvent: {}
+[3.708628] (-) TimerEvent: {}
+[3.808779] (-) TimerEvent: {}
+[3.908984] (-) TimerEvent: {}
+[4.009196] (-) TimerEvent: {}
+[4.109337] (-) TimerEvent: {}
+[4.209485] (-) TimerEvent: {}
+[4.309731] (-) TimerEvent: {}
+[4.409975] (-) TimerEvent: {}
+[4.510121] (-) TimerEvent: {}
+[4.610422] (-) TimerEvent: {}
+[4.710604] (-) TimerEvent: {}
+[4.810798] (-) TimerEvent: {}
+[4.910946] (-) TimerEvent: {}
+[5.011216] (-) TimerEvent: {}
+[5.111456] (-) TimerEvent: {}
+[5.211772] (-) TimerEvent: {}
+[5.311916] (-) TimerEvent: {}
+[5.412060] (-) TimerEvent: {}
+[5.512202] (-) TimerEvent: {}
+[5.612503] (-) TimerEvent: {}
+[5.712656] (-) TimerEvent: {}
+[5.812812] (-) TimerEvent: {}
+[5.913029] (-) TimerEvent: {}
+[6.013223] (-) TimerEvent: {}
+[6.113435] (-) TimerEvent: {}
+[6.213591] (-) TimerEvent: {}
+[6.313791] (-) TimerEvent: {}
+[6.414086] (-) TimerEvent: {}
+[6.514321] (-) TimerEvent: {}
+[6.614578] (-) TimerEvent: {}
+[6.714810] (-) TimerEvent: {}
+[6.815040] (-) TimerEvent: {}
+[6.915248] (-) TimerEvent: {}
+[7.015465] (-) TimerEvent: {}
+[7.115758] (-) TimerEvent: {}
+[7.215997] (-) TimerEvent: {}
+[7.316306] (-) TimerEvent: {}
+[7.416511] (-) TimerEvent: {}
+[7.516687] (-) TimerEvent: {}
+[7.616932] (-) TimerEvent: {}
+[7.717192] (-) TimerEvent: {}
+[7.817500] (-) TimerEvent: {}
+[7.917651] (-) TimerEvent: {}
+[8.017865] (-) TimerEvent: {}
+[8.118179] (-) TimerEvent: {}
+[8.218505] (-) TimerEvent: {}
+[8.318705] (-) TimerEvent: {}
+[8.418889] (-) TimerEvent: {}
+[8.519068] (-) TimerEvent: {}
+[8.619279] (-) TimerEvent: {}
+[8.719408] (-) TimerEvent: {}
+[8.819577] (-) TimerEvent: {}
+[8.919804] (-) TimerEvent: {}
+[9.020018] (-) TimerEvent: {}
+[9.120221] (-) TimerEvent: {}
+[9.220452] (-) TimerEvent: {}
+[9.320606] (-) TimerEvent: {}
+[9.420924] (-) TimerEvent: {}
+[9.521071] (-) TimerEvent: {}
+[9.621245] (-) TimerEvent: {}
+[9.721421] (-) TimerEvent: {}
+[9.821729] (-) TimerEvent: {}
+[9.921880] (-) TimerEvent: {}
+[10.022123] (-) TimerEvent: {}
+[10.122343] (-) TimerEvent: {}
+[10.222507] (-) TimerEvent: {}
+[10.322680] (-) TimerEvent: {}
+[10.422999] (-) TimerEvent: {}
+[10.523197] (-) TimerEvent: {}
+[10.623348] (-) TimerEvent: {}
+[10.723509] (-) TimerEvent: {}
+[10.823657] (-) TimerEvent: {}
+[10.923849] (-) TimerEvent: {}
+[11.024049] (-) TimerEvent: {}
+[11.124248] (-) TimerEvent: {}
+[11.224440] (-) TimerEvent: {}
+[11.324588] (-) TimerEvent: {}
+[11.424742] (-) TimerEvent: {}
+[11.525056] (-) TimerEvent: {}
+[11.625340] (-) TimerEvent: {}
+[11.725511] (-) TimerEvent: {}
+[11.825784] (-) TimerEvent: {}
+[11.925995] (-) TimerEvent: {}
+[12.026257] (-) TimerEvent: {}
+[12.126405] (-) TimerEvent: {}
+[12.226599] (-) TimerEvent: {}
+[12.326812] (-) TimerEvent: {}
+[12.427003] (-) TimerEvent: {}
+[12.527199] (-) TimerEvent: {}
+[12.627492] (-) TimerEvent: {}
+[12.727665] (-) TimerEvent: {}
+[12.827891] (-) TimerEvent: {}
+[12.928111] (-) TimerEvent: {}
+[13.028300] (-) TimerEvent: {}
+[13.128471] (-) TimerEvent: {}
+[13.228658] (-) TimerEvent: {}
+[13.328934] (-) TimerEvent: {}
+[13.429086] (-) TimerEvent: {}
+[13.529239] (-) TimerEvent: {}
+[13.629383] (-) TimerEvent: {}
+[13.729647] (-) TimerEvent: {}
+[13.829859] (-) TimerEvent: {}
+[13.930048] (-) TimerEvent: {}
+[14.030236] (-) TimerEvent: {}
+[14.130498] (-) TimerEvent: {}
+[14.230648] (-) TimerEvent: {}
+[14.330906] (-) TimerEvent: {}
+[14.431103] (-) TimerEvent: {}
+[14.531253] (-) TimerEvent: {}
+[14.631407] (-) TimerEvent: {}
+[14.731673] (-) TimerEvent: {}
+[14.831988] (-) TimerEvent: {}
+[14.932165] (-) TimerEvent: {}
+[15.032350] (-) TimerEvent: {}
+[15.132510] (-) TimerEvent: {}
+[15.232720] (-) TimerEvent: {}
+[15.332884] (-) TimerEvent: {}
+[15.433107] (-) TimerEvent: {}
+[15.533300] (-) TimerEvent: {}
+[15.633613] (-) TimerEvent: {}
+[15.733820] (-) TimerEvent: {}
+[15.834000] (-) TimerEvent: {}
+[15.934183] (-) TimerEvent: {}
+[16.034330] (-) TimerEvent: {}
+[16.134483] (-) TimerEvent: {}
+[16.234676] (-) TimerEvent: {}
+[16.334933] (-) TimerEvent: {}
+[16.435221] (-) TimerEvent: {}
+[16.535499] (-) TimerEvent: {}
+[16.635691] (-) TimerEvent: {}
+[16.735885] (-) TimerEvent: {}
+[16.836126] (-) TimerEvent: {}
+[16.936307] (-) TimerEvent: {}
+[17.036485] (-) TimerEvent: {}
+[17.136657] (-) TimerEvent: {}
+[17.236804] (-) TimerEvent: {}
+[17.336954] (-) TimerEvent: {}
+[17.437125] (-) TimerEvent: {}
+[17.537274] (-) TimerEvent: {}
+[17.637553] (-) TimerEvent: {}
+[17.737703] (-) TimerEvent: {}
+[17.837874] (-) TimerEvent: {}
+[17.938077] (-) TimerEvent: {}
+[18.038225] (-) TimerEvent: {}
+[18.138509] (-) TimerEvent: {}
+[18.238671] (-) TimerEvent: {}
+[18.338884] (-) TimerEvent: {}
+[18.439058] (-) TimerEvent: {}
+[18.539329] (-) TimerEvent: {}
+[18.639548] (-) TimerEvent: {}
+[18.739909] (-) TimerEvent: {}
+[18.840121] (-) TimerEvent: {}
+[18.940418] (-) TimerEvent: {}
+[19.040569] (-) TimerEvent: {}
+[19.140719] (-) TimerEvent: {}
+[19.240944] (-) TimerEvent: {}
+[19.341142] (-) TimerEvent: {}
+[19.441432] (-) TimerEvent: {}
+[19.541773] (-) TimerEvent: {}
+[19.641951] (-) TimerEvent: {}
+[19.742167] (-) TimerEvent: {}
+[19.842596] (-) TimerEvent: {}
+[19.942762] (-) TimerEvent: {}
+[20.042998] (-) TimerEvent: {}
+[20.143223] (-) TimerEvent: {}
+[20.243543] (-) TimerEvent: {}
+[20.343818] (-) TimerEvent: {}
+[20.444056] (-) TimerEvent: {}
+[20.544233] (-) TimerEvent: {}
+[20.644516] (-) TimerEvent: {}
+[20.744718] (-) TimerEvent: {}
+[20.844986] (-) TimerEvent: {}
+[20.945253] (-) TimerEvent: {}
+[21.045529] (-) TimerEvent: {}
+[21.145678] (-) TimerEvent: {}
+[21.245887] (-) TimerEvent: {}
+[21.346151] (-) TimerEvent: {}
+[21.446433] (-) TimerEvent: {}
+[21.546592] (-) TimerEvent: {}
+[21.646868] (-) TimerEvent: {}
+[21.747090] (-) TimerEvent: {}
+[21.847362] (-) TimerEvent: {}
+[21.947512] (-) TimerEvent: {}
+[22.047662] (-) TimerEvent: {}
+[22.147864] (-) TimerEvent: {}
+[22.248122] (-) TimerEvent: {}
+[22.348336] (-) TimerEvent: {}
+[22.448548] (-) TimerEvent: {}
+[22.548764] (-) TimerEvent: {}
+[22.648907] (-) TimerEvent: {}
+[22.749109] (-) TimerEvent: {}
+[22.849310] (-) TimerEvent: {}
+[22.949591] (-) TimerEvent: {}
+[23.049855] (-) TimerEvent: {}
+[23.150159] (-) TimerEvent: {}
+[23.250319] (-) TimerEvent: {}
+[23.350509] (-) TimerEvent: {}
+[23.450663] (-) TimerEvent: {}
+[23.550813] (-) TimerEvent: {}
+[23.651110] (-) TimerEvent: {}
+[23.751314] (-) TimerEvent: {}
+[23.851471] (-) TimerEvent: {}
+[23.951769] (-) TimerEvent: {}
+[24.051940] (-) TimerEvent: {}
+[24.152123] (-) TimerEvent: {}
+[24.252312] (-) TimerEvent: {}
+[24.352532] (-) TimerEvent: {}
+[24.452683] (-) TimerEvent: {}
+[24.552972] (-) TimerEvent: {}
+[24.653206] (-) TimerEvent: {}
+[24.753524] (-) TimerEvent: {}
+[24.853780] (-) TimerEvent: {}
+[24.954057] (-) TimerEvent: {}
+[25.054343] (-) TimerEvent: {}
+[25.154750] (-) TimerEvent: {}
+[25.254904] (-) TimerEvent: {}
+[25.355050] (-) TimerEvent: {}
+[25.455248] (-) TimerEvent: {}
+[25.555406] (-) TimerEvent: {}
+[25.655557] (-) TimerEvent: {}
+[25.755707] (-) TimerEvent: {}
+[25.855870] (-) TimerEvent: {}
+[25.956035] (-) TimerEvent: {}
+[26.056260] (-) TimerEvent: {}
+[26.156453] (-) TimerEvent: {}
+[26.256611] (-) TimerEvent: {}
+[26.356834] (-) TimerEvent: {}
+[26.457051] (-) TimerEvent: {}
+[26.557240] (-) TimerEvent: {}
+[26.657495] (-) TimerEvent: {}
+[26.757672] (-) TimerEvent: {}
+[26.857989] (-) TimerEvent: {}
+[26.958194] (-) TimerEvent: {}
+[27.058527] (-) TimerEvent: {}
+[27.158679] (-) TimerEvent: {}
+[27.258841] (-) TimerEvent: {}
+[27.359036] (-) TimerEvent: {}
+[27.459234] (-) TimerEvent: {}
+[27.559567] (-) TimerEvent: {}
+[27.659841] (-) TimerEvent: {}
+[27.760022] (-) TimerEvent: {}
+[27.860214] (-) TimerEvent: {}
+[27.960535] (-) TimerEvent: {}
+[28.060683] (-) TimerEvent: {}
+[28.160983] (-) TimerEvent: {}
+[28.261166] (-) TimerEvent: {}
+[28.361420] (-) TimerEvent: {}
+[28.461636] (-) TimerEvent: {}
+[28.561789] (-) TimerEvent: {}
+[28.661992] (-) TimerEvent: {}
+[28.762202] (-) TimerEvent: {}
+[28.862406] (-) TimerEvent: {}
+[28.962575] (-) TimerEvent: {}
+[29.062788] (-) TimerEvent: {}
+[29.163074] (-) TimerEvent: {}
+[29.263270] (-) TimerEvent: {}
+[29.363473] (-) TimerEvent: {}
+[29.463654] (-) TimerEvent: {}
+[29.563865] (-) TimerEvent: {}
+[29.664068] (-) TimerEvent: {}
+[29.764379] (-) TimerEvent: {}
+[29.864556] (-) TimerEvent: {}
+[29.964829] (-) TimerEvent: {}
+[30.009062] (phasespace_msgs_ros2) JobProgress: {'identifier': 'phasespace_msgs_ros2', 'progress': 'cmake'}
+[30.009828] (phasespace_msgs_ros2) JobProgress: {'identifier': 'phasespace_msgs_ros2', 'progress': 'build'}
+[30.009858] (phasespace_msgs_ros2) Command: {'cmd': ['/usr/bin/cmake', '--build', '/home/anshul/Research/PostDoc/mocap/build/phasespace_msgs_ros2', '--', '-j20', '-l20'], 'cwd': '/home/anshul/Research/PostDoc/mocap/build/phasespace_msgs_ros2', 'env': OrderedDict([('GJS_DEBUG_TOPICS', 'JS ERROR;JS LOG'), ('LESSOPEN', '| /usr/bin/lesspipe %s'), ('VSCODE_CWD', '/home/anshul'), ('VSCODE_ESM_ENTRYPOINT', 'vs/workbench/api/node/extensionHostProcess'), ('CONDA_PROMPT_MODIFIER', '(base)'), ('CODEX_CI', '1'), ('USER', 'anshul'), ('CODEX_INTERNAL_ORIGINATOR_OVERRIDE', 'codex_vscode'), ('VSCODE_NLS_CONFIG', '{"userLocale":"en-us","osLocale":"en-us","resolvedLanguage":"en","defaultMessagesFile":"/usr/share/code/resources/app/out/nls.messages.json","locale":"en-us","availableLanguages":{}}'), ('VSCODE_HANDLES_UNCAUGHT_ERRORS', 'true'), ('XDG_SESSION_TYPE', 'x11'), ('DEBUG', 'release'), ('SHLVL', '0'), ('LD_LIBRARY_PATH', '/home/anshul/casadi/build/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/home/anshul'), ('CHROME_DESKTOP', 'code.desktop'), ('CONDA_SHLVL', '1'), ('DESKTOP_SESSION', 'ubuntu'), ('VSCODE_IPC_HOOK', '/run/user/1000/vscode-0b922b41-1.99-main.sock'), ('GIO_LAUNCHED_DESKTOP_FILE', '/usr/share/applications/code.desktop'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('PAGER', 'cat'), ('MANAGERPID', '1996'), ('LC_CTYPE', 'C.UTF-8'), ('SYSTEMD_EXEC_PID', '2292'), ('NO_COLOR', '1'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLORTERM', ''), ('GIO_LAUNCHED_DESKTOP_FILE_PID', '13935'), ('_colcon_cd_root', '/opt/ros/humble/'), ('VSCODE_CRASH_REPORTER_PROCESS_TYPE', 'extensionHost'), ('MANDATORY_PATH', '/usr/share/gconf/ubuntu.mandatory.path'), ('VSCODE_L10N_BUNDLE_LOCATION', ''), ('ROS_DISTRO', 'humble'), ('GTK_IM_MODULE', 'ibus'), ('LOGNAME', 'anshul'), ('JOURNAL_STREAM', '8:17202'), ('_', '/usr/bin/env'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('DEFAULTS_PATH', '/usr/share/gconf/ubuntu.default.path'), ('RUST_LOG', 'warn'), ('USERNAME', 'anshul'), ('TERM', 'dumb'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('ROS_LOCALHOST_ONLY', '0'), ('WINDOWPATH', '2'), ('PATH', '/usr/bin:/bin:/usr/sbin:/sbin:/opt/ros/humble/bin'), ('SESSION_MANAGER', 'local/anshul-Linux:@/tmp/.ICE-unix/2268,unix/anshul-Linux:/tmp/.ICE-unix/2268'), ('INVOCATION_ID', '73cf8843a98c4ec9ad96ba6ba4f95413'), ('XDG_MENU_PREFIX', 'gnome-'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('GDK_BACKEND', 'x11'), ('DISPLAY', ':1'), ('CODEX_SANDBOX_NETWORK_DISABLED', '1'), ('LANG', 'en_US.UTF-8'), ('XDG_CURRENT_DESKTOP', 'Unity'), ('XMODIFIERS', '@im=ibus'), ('GH_PAGER', 'cat'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/1000/gdm/Xauthority'), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('GSETTINGS_SCHEMA_DIR', '/home/anshul/miniconda3/share/glib-2.0/schemas'), ('AMENT_PREFIX_PATH', '/opt/ros/humble'), ('CONDA_PYTHON_EXE', '/home/anshul/miniconda3/bin/python'), ('ORIGINAL_XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('SHELL', '/bin/bash'), ('QT_ACCESSIBILITY', '1'), ('ELECTRON_RUN_AS_NODE', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('CONDA_DEFAULT_ENV', 'base'), ('CODEX_THREAD_ID', '019da236-c726-7413-b965-d416169df785'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('GJS_DEBUG_OUTPUT', 'stderr'), ('GIT_PAGER', 'cat'), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/anshul/Research/PostDoc/mocap/build/phasespace_msgs_ros2'), ('LC_ALL', 'en_US.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('CONDA_EXE', '/home/anshul/miniconda3/bin/conda'), ('VSCODE_CODE_CACHE_PATH', '/home/anshul/.config/Code/CachedData/17baf841131aa23349f217ca7c570c76ee87b957'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('CONDA_PREFIX', '/home/anshul/miniconda3'), ('COLCON', '1'), ('VSCODE_PID', '13935')]), 'shell': False}
+[30.043593] (phasespace_msgs_ros2) StdoutLine: {'line': b'Consolidate compiler generated dependencies of target phasespace_msgs_ros2__rosidl_generator_c\n'}
+[30.049544] (phasespace_msgs_ros2) StdoutLine: {'line': b'[  1%] Built target phasespace_msgs_ros2__cpp\n'}
+[30.052534] (phasespace_msgs_ros2) StdoutLine: {'line': b'[ 12%] Built target phasespace_msgs_ros2__rosidl_generator_c\n'}
+[30.055195] (phasespace_msgs_ros2) StdoutLine: {'line': b'[ 12%] Built target ament_cmake_python_copy_phasespace_msgs_ros2\n'}
+[30.058771] (phasespace_msgs_ros2) StdoutLine: {'line': b'Consolidate compiler generated dependencies of target phasespace_msgs_ros2__rosidl_typesupport_introspection_cpp\n'}
+[30.059536] (phasespace_msgs_ros2) StdoutLine: {'line': b'Consolidate compiler generated dependencies of target phasespace_msgs_ros2__rosidl_typesupport_cpp\n'}
+[30.060473] (phasespace_msgs_ros2) StdoutLine: {'line': b'Consolidate compiler generated dependencies of target phasespace_msgs_ros2__rosidl_typesupport_fastrtps_cpp\n'}
+[30.062033] (phasespace_msgs_ros2) StdoutLine: {'line': b'Consolidate compiler generated dependencies of target phasespace_msgs_ros2__rosidl_typesupport_c\n'}
+[30.062382] (phasespace_msgs_ros2) StdoutLine: {'line': b'Consolidate compiler generated dependencies of target phasespace_msgs_ros2__rosidl_typesupport_introspection_c\n'}
+[30.064918] (-) TimerEvent: {}
+[30.066365] (phasespace_msgs_ros2) StdoutLine: {'line': b'Consolidate compiler generated dependencies of target phasespace_msgs_ros2__rosidl_typesupport_fastrtps_c\n'}
+[30.067278] (phasespace_msgs_ros2) StdoutLine: {'line': b'[ 23%] Built target phasespace_msgs_ros2__rosidl_typesupport_introspection_cpp\n'}
+[30.068127] (phasespace_msgs_ros2) StdoutLine: {'line': b'[ 35%] Built target phasespace_msgs_ros2__rosidl_typesupport_fastrtps_cpp\n'}
+[30.068669] (phasespace_msgs_ros2) StdoutLine: {'line': b'[ 46%] Built target phasespace_msgs_ros2__rosidl_typesupport_cpp\n'}
+[30.071398] (phasespace_msgs_ros2) StdoutLine: {'line': b'[ 63%] Built target phasespace_msgs_ros2__rosidl_typesupport_introspection_c\n'}
+[30.071550] (phasespace_msgs_ros2) StdoutLine: {'line': b'[ 69%] Built target phasespace_msgs_ros2__rosidl_typesupport_c\n'}
+[30.077707] (phasespace_msgs_ros2) StdoutLine: {'line': b'[ 80%] Built target phasespace_msgs_ros2__rosidl_typesupport_fastrtps_c\n'}
+[30.092131] (phasespace_msgs_ros2) StdoutLine: {'line': b'[ 80%] Built target phasespace_msgs_ros2\n'}
+[30.107317] (phasespace_msgs_ros2) StdoutLine: {'line': b'[ 81%] Generating Python code for ROS interfaces\n'}
+[30.125062] (phasespace_msgs_ros2) StderrLine: {'line': b'Traceback (most recent call last):\n'}
+[30.125225] (phasespace_msgs_ros2) StderrLine: {'line': b'  File "/opt/ros/humble/share/rosidl_generator_py/cmake/../../../lib/rosidl_generator_py/rosidl_generator_py", line 8, in <module>\n'}
+[30.125293] (phasespace_msgs_ros2) StderrLine: {'line': b'    from rosidl_generator_py import generate_py\n'}
+[30.125352] (phasespace_msgs_ros2) StderrLine: {'line': b"ModuleNotFoundError: No module named 'rosidl_generator_py'\n"}
+[30.127783] (phasespace_msgs_ros2) StderrLine: {'line': b'gmake[2]: *** [phasespace_msgs_ros2__py/CMakeFiles/phasespace_msgs_ros2__py.dir/build.make:138: rosidl_generator_py/phasespace_msgs_ros2/_phasespace_msgs_ros2_s.ep.rosidl_typesupport_fastrtps_c.c] Error 1\n'}
+[30.127987] (phasespace_msgs_ros2) StderrLine: {'line': b'gmake[1]: *** [CMakeFiles/Makefile2:590: phasespace_msgs_ros2__py/CMakeFiles/phasespace_msgs_ros2__py.dir/all] Error 2\n'}
+[30.128074] (phasespace_msgs_ros2) StderrLine: {'line': b'gmake[1]: *** Waiting for unfinished jobs....\n'}
+[30.165133] (-) TimerEvent: {}
+[30.173595] (phasespace_msgs_ros2) StdoutLine: {'line': b'running egg_info\n'}
+[30.173820] (phasespace_msgs_ros2) StdoutLine: {'line': b'writing phasespace_msgs_ros2.egg-info/PKG-INFO\n'}
+[30.174020] (phasespace_msgs_ros2) StdoutLine: {'line': b'writing dependency_links to phasespace_msgs_ros2.egg-info/dependency_links.txt\n'}
+[30.174105] (phasespace_msgs_ros2) StdoutLine: {'line': b'writing top-level names to phasespace_msgs_ros2.egg-info/top_level.txt\n'}
+[30.175316] (phasespace_msgs_ros2) StdoutLine: {'line': b"reading manifest file 'phasespace_msgs_ros2.egg-info/SOURCES.txt'\n"}
+[30.175527] (phasespace_msgs_ros2) StdoutLine: {'line': b"writing manifest file 'phasespace_msgs_ros2.egg-info/SOURCES.txt'\n"}
+[30.193033] (phasespace_msgs_ros2) StdoutLine: {'line': b'[ 81%] Built target ament_cmake_python_build_phasespace_msgs_ros2_egg\n'}
+[30.193851] (phasespace_msgs_ros2) StderrLine: {'line': b'gmake: *** [Makefile:146: all] Error 2\n'}
+[30.195078] (phasespace_msgs_ros2) CommandEnded: {'returncode': 2}
+[30.206680] (phasespace_msgs_ros2) JobEnded: {'identifier': 'phasespace_msgs_ros2', 'rc': 2}
+[30.217009] (phasespace_bringup_ros2) JobSkipped: {'identifier': 'phasespace_bringup_ros2'}
+[30.217053] (-) EventReactorShutdown: {}
