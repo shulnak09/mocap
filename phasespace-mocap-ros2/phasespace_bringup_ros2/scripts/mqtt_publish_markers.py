@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 import json
+import ssl
 import sys
 
 import rclpy
@@ -22,6 +23,31 @@ def make_mqtt_client():
     if callback_api is not None:
         return mqtt.Client(callback_api.VERSION2)
     return mqtt.Client()
+
+
+def configure_mqtt_client(
+    client,
+    host: str,
+    port: int,
+    keepalive: int,
+    use_tls: bool,
+    ca_file: str,
+    insecure_tls: bool,
+    username: str,
+    password: str,
+) -> None:
+    if username:
+        client.username_pw_set(username, password if password else None)
+
+    if use_tls:
+        tls_kwargs = {"cert_reqs": ssl.CERT_REQUIRED}
+        if ca_file:
+            tls_kwargs["ca_certs"] = ca_file
+        client.tls_set(**tls_kwargs)
+        if insecure_tls:
+            client.tls_insecure_set(True)
+
+    client.connect(host, port, keepalive)
 
 
 def markers_to_dict(msg: Markers) -> dict:
@@ -57,15 +83,44 @@ class MarkerMqttPublisher(Node):
         self.declare_parameter("mqtt_port", 1883)
         self.declare_parameter("mqtt_topic", "phasespace/markers")
         self.declare_parameter("mqtt_qos", 0)
+        self.declare_parameter("mqtt_keepalive", 60)
+        self.declare_parameter("mqtt_use_tls", False)
+        self.declare_parameter("mqtt_ca_file", "")
+        self.declare_parameter("mqtt_insecure_tls", False)
+        self.declare_parameter("mqtt_username", "")
+        self.declare_parameter("mqtt_password", "")
+        self.declare_parameter("mqtt_client_id", "")
 
         ros_topic = self.get_parameter("ros_topic").get_parameter_value().string_value
         mqtt_host = self.get_parameter("mqtt_host").get_parameter_value().string_value
         mqtt_port = self.get_parameter("mqtt_port").get_parameter_value().integer_value
+        mqtt_keepalive = self.get_parameter("mqtt_keepalive").get_parameter_value().integer_value
         self._mqtt_topic = self.get_parameter("mqtt_topic").get_parameter_value().string_value
         self._mqtt_qos = self.get_parameter("mqtt_qos").get_parameter_value().integer_value
+        mqtt_use_tls = self.get_parameter("mqtt_use_tls").get_parameter_value().bool_value
+        mqtt_ca_file = self.get_parameter("mqtt_ca_file").get_parameter_value().string_value
+        mqtt_insecure_tls = self.get_parameter("mqtt_insecure_tls").get_parameter_value().bool_value
+        mqtt_username = self.get_parameter("mqtt_username").get_parameter_value().string_value
+        mqtt_password = self.get_parameter("mqtt_password").get_parameter_value().string_value
+        mqtt_client_id = self.get_parameter("mqtt_client_id").get_parameter_value().string_value
 
         self._mqtt_client = make_mqtt_client()
-        self._mqtt_client.connect(mqtt_host, int(mqtt_port), 60)
+        if mqtt_client_id:
+            try:
+                self._mqtt_client.reinitialise(client_id=mqtt_client_id)
+            except AttributeError:
+                self.get_logger().warning("MQTT client ID reinitialisation is not supported by this Paho version")
+        configure_mqtt_client(
+            self._mqtt_client,
+            mqtt_host,
+            int(mqtt_port),
+            int(mqtt_keepalive),
+            mqtt_use_tls,
+            mqtt_ca_file,
+            mqtt_insecure_tls,
+            mqtt_username,
+            mqtt_password,
+        )
         self._mqtt_client.loop_start()
 
         self.create_subscription(Markers, ros_topic, self._callback, 10)
