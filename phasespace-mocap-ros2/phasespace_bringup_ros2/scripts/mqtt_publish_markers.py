@@ -17,6 +17,13 @@ except ImportError as exc:
     ) from exc
 
 
+def make_mqtt_client():
+    callback_api = getattr(mqtt, "CallbackAPIVersion", None)
+    if callback_api is not None:
+        return mqtt.Client(callback_api.VERSION2)
+    return mqtt.Client()
+
+
 def markers_to_dict(msg: Markers) -> dict:
     return {
         "header": {
@@ -57,7 +64,7 @@ class MarkerMqttPublisher(Node):
         self._mqtt_topic = self.get_parameter("mqtt_topic").get_parameter_value().string_value
         self._mqtt_qos = self.get_parameter("mqtt_qos").get_parameter_value().integer_value
 
-        self._mqtt_client = mqtt.Client(mqtt.CallbackAPIVersion.VERSION2)
+        self._mqtt_client = make_mqtt_client()
         self._mqtt_client.connect(mqtt_host, int(mqtt_port), 60)
         self._mqtt_client.loop_start()
 
