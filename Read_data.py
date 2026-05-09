@@ -1,6 +1,6 @@
-import owl
+import ow
 
-SERVER = "192.168.0.101"
+SERVER = "192.168.0.102"
 
 ctx = owl.Context()
 ctx.open(SERVER, "timeout=10000000")

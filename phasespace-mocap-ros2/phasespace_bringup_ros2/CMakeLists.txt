@@ -22,6 +22,10 @@ ament_target_dependencies(phasespace_bringup_node
   std_msgs
 )
 target_link_libraries(phasespace_bringup_node owlsock)
+set_target_properties(phasespace_bringup_node PROPERTIES
+  BUILD_RPATH "${CMAKE_CURRENT_SOURCE_DIR}/bin"
+  INSTALL_RPATH "$ORIGIN"
+)
 
 install(
   TARGETS phasespace_bringup_node
@@ -35,7 +39,7 @@ install(
 
 install(
   FILES bin/libowlsock.so
-  DESTINATION lib
+  DESTINATION lib/${PROJECT_NAME}
 )
 
 install(
@@ -44,6 +48,9 @@ install(
     scripts/plot_xy_data.py
     scripts/live_plot_xyz.py
     scripts/live_spatial_plot.py
+    scripts/split_markers_devices.py
+    scripts/mqtt_publish_markers.py
+    scripts/mqtt_receive_markers.py
   DESTINATION lib/${PROJECT_NAME}
 )
 

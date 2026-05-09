@@ -1,3 +1,4 @@
+#include <iostream>
 #include <chrono>
 #include <memory>
 #include <stdexcept>
@@ -35,11 +36,23 @@ public:
       "/phasespace/rigids", 10);
 
     RCLCPP_INFO(this->get_logger(), "Opening Phasespace server at %s", server_ip.c_str());
-
-    if (owl_.open(server_ip) <= 0 || owl_.initialize(init_options) <= 0) {
-      throw std::runtime_error("Failed to open or initialize Phasespace OWL connection");
+    const int open_result = owl_.open(server_ip);
+    RCLCPP_INFO(this->get_logger(), "OWL open result: %d", open_result);
+    
+    if (open_result <= 0) {
+      throw std::runtime_error(
+        "Failed to open Phasespace OWL connection. OWL error: " + owl_.lastError());
     }
-
+    
+    const int init_result = owl_.initialize(init_options);
+    RCLCPP_INFO(this->get_logger(), "OWL initialize result: %d with options: %s",
+                init_result, init_options.c_str());
+    
+    if (init_result <= 0) {
+      throw std::runtime_error(
+        "Failed to initialize Phasespace OWL connection. OWL error: " + owl_.lastError());
+    }
+    
     owl_.streaming(1);
     RCLCPP_INFO(this->get_logger(), "Phasespace streaming enabled");
 
@@ -190,8 +203,9 @@ int main(int argc, char ** argv)
     auto node = std::make_shared<PhasespaceBringupNode>();
     rclcpp::spin(node);
   } catch (const std::exception & ex) {
+    std::cerr << "phasespace_bringup_node failed: " << ex.what() << std::endl;
     rclcpp::shutdown();
-    throw;
+    return 1;
   }
 
   rclcpp::shutdown();

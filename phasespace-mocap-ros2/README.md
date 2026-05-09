@@ -28,6 +28,12 @@ env PATH=/usr/bin:/bin:/usr/sbin:/sbin:/opt/ros/humble/bin \
     --cmake-args -DPython3_EXECUTABLE=/usr/bin/python3
 ```
 
+There is also a wrapper script in the workspace root that does the same thing:
+
+```bash
+./build_phasespace_ros2.sh
+```
+
 Run the driver:
 
 ```bash
@@ -95,4 +101,41 @@ ros2 run phasespace_bringup_ros2 live_spatial_plot.py \
   --topic /phasespace/markers \
   --combine-ids 0,2,4,6 \
   --combine-count 4
+```
+
+Split raw markers into two device-specific topics:
+
+```bash
+source /opt/ros/humble/setup.bash
+source install/setup.bash
+ros2 run phasespace_bringup_ros2 split_markers_devices.py
+```
+
+If you know the marker IDs for each device, lock the split explicitly:
+
+```bash
+ros2 run phasespace_bringup_ros2 split_markers_devices.py \
+  --ros-args \
+  -p device0_ids:=0,1,2,3,4,5,6,7 \
+  -p device1_ids:=8,9,10,11,12,13,14,15
+```
+
+Publish markers to MQTT:
+
+```bash
+ros2 run phasespace_bringup_ros2 mqtt_publish_markers.py \
+  --ros-args \
+  -p ros_topic:=/phasespace/device_0/markers \
+  -p mqtt_host:=192.168.0.200 \
+  -p mqtt_topic:=phasespace/device0/markers
+```
+
+Receive MQTT markers and republish them as ROS topics on another machine:
+
+```bash
+ros2 run phasespace_bringup_ros2 mqtt_receive_markers.py \
+  --ros-args \
+  -p mqtt_host:=192.168.0.200 \
+  -p mqtt_topic:=phasespace/device0/markers \
+  -p ros_topic:=/remote/phasespace/device_0/markers
 ```

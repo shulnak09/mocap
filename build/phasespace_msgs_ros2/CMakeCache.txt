@@ -249,8 +249,8 @@ PYTHON_LIBRARY:FILEPATH=/usr/lib/x86_64-linux-gnu/libpython3.10.so
 //Path to a library.
 PYTHON_LIBRARY_DEBUG:FILEPATH=PYTHON_LIBRARY_DEBUG-NOTFOUND
 
-//No help, variable specified on the command line.
-Python3_EXECUTABLE:UNINITIALIZED=/usr/bin/python3
+//Force ROS 2 interface generation to use the system Python interpreter
+Python3_EXECUTABLE:FILEPATH=/usr/bin/python3
 
 //Name of the computer/site where compile is being run
 SITE:STRING=anshul-Linux
@@ -610,5 +610,5 @@ PythonExtra_EXTENSION_SUFFIX:INTERNAL=.cpython-310-x86_64-linux-gnu
 _Python3_EXECUTABLE:INTERNAL=/usr/bin/python3
 //Python3 Properties
 _Python3_INTERPRETER_PROPERTIES:INTERNAL=Python;3;10;12;64;;cpython-310-x86_64-linux-gnu;/usr/lib/python3.10;/usr/lib/python3.10;/usr/lib/python3/dist-packages;/usr/lib/python3/dist-packages
-_Python3_INTERPRETER_SIGNATURE:INTERNAL=0f3e53742e142b1d9e50e4ca5b901dd8
+_Python3_INTERPRETER_SIGNATURE:INTERNAL=fab9a436976042ea73cb06b230d750bb
 

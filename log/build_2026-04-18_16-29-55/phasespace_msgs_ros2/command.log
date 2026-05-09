@@ -1,2 +1,0 @@
-Invoking command in '/home/anshul/Research/PostDoc/mocap/build/phasespace_msgs_ros2': CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/anshul/Research/PostDoc/mocap/build/phasespace_msgs_ros2 -- -j20 -l20
-Invoked command in '/home/anshul/Research/PostDoc/mocap/build/phasespace_msgs_ros2' returned '2': CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/anshul/Research/PostDoc/mocap/build/phasespace_msgs_ros2 -- -j20 -l20

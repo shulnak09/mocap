@@ -47,15 +47,15 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/phasespace_bringup_ros2/phasespace_bringup_node")
     file(RPATH_CHECK
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/phasespace_bringup_ros2/phasespace_bringup_node"
-         RPATH "")
+         RPATH "$ORIGIN")
   endif()
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/phasespace_bringup_ros2" TYPE EXECUTABLE FILES "/home/anshul/Research/PostDoc/mocap/build/phasespace_bringup_ros2/phasespace_bringup_node")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/phasespace_bringup_ros2/phasespace_bringup_node" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/phasespace_bringup_ros2/phasespace_bringup_node")
     file(RPATH_CHANGE
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/phasespace_bringup_ros2/phasespace_bringup_node"
-         OLD_RPATH "/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/lib:/opt/ros/humble/lib:/home/anshul/Research/PostDoc/mocap/phasespace-mocap-ros2/phasespace_bringup_ros2/bin:"
-         NEW_RPATH "")
+         OLD_RPATH "/home/anshul/Research/PostDoc/mocap/phasespace-mocap-ros2/phasespace_bringup_ros2/bin:/home/anshul/Research/PostDoc/mocap/install/phasespace_msgs_ros2/lib:/opt/ros/humble/lib:"
+         NEW_RPATH "$ORIGIN")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/usr/bin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/phasespace_bringup_ros2/phasespace_bringup_node")
     endif()
@@ -67,7 +67,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE FILE FILES "/home/anshul/Research/PostDoc/mocap/phasespace-mocap-ros2/phasespace_bringup_ros2/bin/libowlsock.so")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/phasespace_bringup_ros2" TYPE FILE FILES "/home/anshul/Research/PostDoc/mocap/phasespace-mocap-ros2/phasespace_bringup_ros2/bin/libowlsock.so")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
@@ -76,6 +76,9 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
     "/home/anshul/Research/PostDoc/mocap/phasespace-mocap-ros2/phasespace_bringup_ros2/scripts/plot_xy_data.py"
     "/home/anshul/Research/PostDoc/mocap/phasespace-mocap-ros2/phasespace_bringup_ros2/scripts/live_plot_xyz.py"
     "/home/anshul/Research/PostDoc/mocap/phasespace-mocap-ros2/phasespace_bringup_ros2/scripts/live_spatial_plot.py"
+    "/home/anshul/Research/PostDoc/mocap/phasespace-mocap-ros2/phasespace_bringup_ros2/scripts/split_markers_devices.py"
+    "/home/anshul/Research/PostDoc/mocap/phasespace-mocap-ros2/phasespace_bringup_ros2/scripts/mqtt_publish_markers.py"
+    "/home/anshul/Research/PostDoc/mocap/phasespace-mocap-ros2/phasespace_bringup_ros2/scripts/mqtt_receive_markers.py"
     )
 endif()
 

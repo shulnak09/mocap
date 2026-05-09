@@ -10,7 +10,7 @@ def generate_launch_description():
     return LaunchDescription([
         DeclareLaunchArgument(
             "server_ip",
-            default_value="192.168.0.101",
+            default_value="192.168.0.102",
             description="IP address of the Phasespace OWL server",
         ),
         Node(
